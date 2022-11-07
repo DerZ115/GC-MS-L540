@@ -1,0 +1,680 @@
+                                      Library Search Report
+
+  Data Path : C:\msdchem\1\data\220704_ONKO\
+  Data File : SC103.D                                             
+  Acq On    :  4 Jul 2022  18:33
+  Operator  : AM
+  Sample    : C2a
+  Misc      :  
+  ALS Vial  : 4   Sample Multiplier: 1
+
+  Search Libraries:   C:\Database\NIST11.L              Minimum Quality:  50
+                      C:\Database\W9N11.L               Minimum Quality:   0
+
+  Unknown Spectrum:   Apex minus start of peak
+  Integration Events: ChemStation Integrator - autoint100.e
+
+Pk#     RT  Area%          Library/ID                 Ref#     CAS#   Qual
+_____________________________________________________________________________
+  1   6.544  0.09 C:\Database\W9N11.L
+                 6-[(4-methoxyphenyl)ethyl]-1-oxa-4 358079 998358-07-9 59
+                 -methoxy-3-cyclohexen-2-one
+                 Pyridine, 2,4,6-trimethyl- (CAS) $  26289 000108-75-8 45
+                 $ 2,4,6-Trimethylpyridine $$ s-Col
+                 lidine
+                 Pyridine, 2,4,6-trimethyl- $$ .alp  26285 000108-75-8 43
+                 ha.,.gamma.,.alpha.'-Collidine
+ 
+  2   7.401  0.11 C:\Database\NIST11.L
+                 Pyridine, 3-trimethylsiloxy-        36070 041571-88-4 64
+                 Thiocarbonic acid o-3-chloropropyl 121455 1000251-29-2 39
+                 -S-purin-6-yl ester
+                 Cyclobuta(1,2-a:3,4-a')diacenaphth 148328 007259-03-2 33
+                 ylene, 6b,6c,12b,12c-tetrahydro-
+ 
+  3   7.941 31.28 C:\Database\NIST11.L
+                 Propanoic acid, 2-[(trimethylsilyl  89486 017596-96-2 91
+                 )oxy]-, trimethylsilyl ester
+                 Propanoic acid, 2-[(trimethylsilyl  89487 017596-96-2 91
+                 )oxy]-, trimethylsilyl ester
+                 L-(+)-Lactic acid, trimethylsilyl   89482 1000333-99-5 64
+                 ether, trimethylsilyl ester
+ 
+  4   9.366  1.22 C:\Database\NIST11.L
+                 l-Alanine, N-(trimethylsilyl)-, tr  88478 027844-07-1 97
+                 imethylsilyl ester
+                 l-Alanine, N-(trimethylsilyl)-, tr  88477 027844-07-1 74
+                 imethylsilyl ester
+                 1H-Indole-3-ethanamine, 6-fluoro-. 173754 077590-55-7 64
+                 alpha.-methyl-N,1-bis(trimethylsil
+                 yl)-
+ 
+  5   9.867  2.51 C:\Database\W9N11.L
+                 1,2-Bis(trimethylsiloxy)cyclohexen 345955 006838-67-1 47
+                 Silylation artifact from Pentanoic 429035 998429-03-5 43
+                  Acid and BSA, original spectrum
+                 Silylation artifact from Pentanoic 429033 998429-03-3 43
+                  Acid and BSA
+ 
+  6  10.062  0.05 C:\Database\NIST11.L
+                 Glycine, N-(trimethylsilyl)-, trim  76701 007364-42-3 91
+                 ethylsilyl ester
+                 1-Trimethylsiloxy-2-trimethylsilyl  65402 017165-52-5 87
+                 aminoethane
+                 Glycine, N-(trimethylsilyl)-, trim  76702 007364-42-3 83
+                 ethylsilyl ester
+ 
+  7  10.511  0.43 C:\Database\W9N11.L
+                 N,N-Diethyl(trimethylsilyl)carbama 152296 998152-29-6 47
+                 te
+                 (4aS,8aS)-2,2-Dimethylperhydrothio 149565 998149-56-5 43
+                 pyrano[3,2-d][1,3]dioxine
+                 TETRITOLOL-1-D1, 2-DESOXY-2-HYDROX 707064 998707-06-4 27
+                 YMETHYL-TETRAKIS-O-(TRIMETHYLSILYL
+                 )-
+ 
+  8  10.694  3.92 C:\Database\W9N11.L
+                 2-Propenoic acid, 2-[(trimethylsil 270190 055191-13-4 43
+                 yl)oxy]-, trimethylsilyl ester (CA
+                 S)
+                 Ethanedioic acid, bis(trimethylsil 275592 018294-04-7 43
+                 yl) ester
+                 Mercaptoacetic acid, bis(trimethyl 281328 006398-62-5 43
+                 silyl)-
+ 
+  9  11.179  0.17 C:\Database\NIST11.L
+                 Pentasiloxane, dodecamethyl-       204090 000141-63-9 95
+                 Pentasiloxane, dodecamethyl-       204092 000141-63-9 91
+                 Pentasiloxane, dodecamethyl-       204093 000141-63-9 91
+ 
+ 10  11.870  0.05 C:\Database\W9N11.L
+                 (1H-Indol-3-yl)acetaldehyde oxime  117629 998117-62-9 32
+                 $$ (1Z)-1H-Indol-3-ylethanal oxime
+                  #
+                 CCN(CC)S(=O)O[Si](C)(C)C (TXT=form 205927 000000-00-0 16
+                 ed in derivatization of sample con
+                 taining thio
+                 CCN(CC)S(=O)O[Si](C)(C)C (TXT=form 205928 000000-00-0 16
+                 ed in derivatization of sample con
+                 taining thio
+ 
+ 11  12.010  0.09 C:\Database\W9N11.L
+                 2-OXOISOCAPROIC ACID MEOX1 TMS     268297 998268-29-7 47
+                 Pentanoic acid, 2-(methoxyimino)-3 268273 055494-02-5 45
+                 -methyl-, trimethylsilyl ester
+                 Pentanoic acid, 2-(methoxyimino)-3 268274 055494-02-5 45
+                 -methyl-, trimethylsilyl ester (CA
+                 S)
+ 
+ 12  12.201  0.14 C:\Database\NIST11.L
+                 Phosphoric acid, bis(trimethylsily 107789 018291-81-1 95
+                 l)monomethyl ester
+                 4-Hydroxy-4'-nitrostilbene          94824 019221-08-0 53
+                 1-Methyl-1-n-decyloxy-1-silacyclop 107412 1000216-91-2 52
+                 entane
+ 
+ 13  13.077  0.19 C:\Database\NIST11.L
+                 L-Valine, N-(trimethylsilyl)-, tri 111226 007364-44-5 86
+                 methylsilyl ester
+                 Val-Val, N-trimethylsilyl-, trimet 190290 1000333-70-3 50
+                 hylsilyl ester
+                 Metoprolol di-TMS derivative       216060 1000297-94-3 45
+ 
+ 14  13.279  0.06 C:\Database\NIST11.L
+                 2-Ketoisocaproic acid mo-tms        86489 1000332-23-4 60
+                 Hexanoic acid, 2-(methoxyimino)-,   86498 055494-01-4 38
+                 trimethylsilyl ester
+                 Hexanoic acid, 2-(methoxyimino)-,   86497 055494-01-4 35
+                 trimethylsilyl ester
+ 
+ 15  14.674  1.70 C:\Database\NIST11.L
+                 Urea, N,N'-bis(trimethylsilyl)-     64687 018297-63-7 92
+                 Urea, N,N'-bis(trimethylsilyl)-     64686 018297-63-7 64
+                 Urea, N,N'-bis(trimethylsilyl)-     64688 018297-63-7 60
+ 
+ 16  14.846  0.29 C:\Database\NIST11.L
+                 L-Norleucine, N-(trimethylsilyl)-, 123204 055320-11-1 83
+                  trimethylsilyl ester
+                 L-Leucine, N-(trimethylsilyl)-, tr 123197 007364-46-7 74
+                 imethylsilyl ester
+                 L-Isoleucine, N-(trimethylsilyl)-, 123201 007483-92-3 56
+                  trimethylsilyl ester
+ 
+ 17  15.003 15.94 C:\Database\NIST11.L
+                 Silanol, trimethyl-, phosphate (3: 156830 010497-05-9 98
+                 1)
+                 Silanol, trimethyl-, phosphate (3: 156827 010497-05-9 98
+                 1)
+                 Silanol, trimethyl-, phosphate (3: 156828 010497-05-9 98
+                 1)
+ 
+ 18  15.497  0.39 C:\Database\NIST11.L
+                 L-Isoleucine, N-(trimethylsilyl)-, 123201 007483-92-3 90
+                  trimethylsilyl ester
+                 L-Norleucine, N-(trimethylsilyl)-, 123203 055320-11-1 72
+                  trimethylsilyl ester
+                 L-Leucine, N-(trimethylsilyl)-, tr 123199 007364-46-7 72
+                 imethylsilyl ester
+ 
+ 19  15.636  0.76 C:\Database\NIST11.L
+                 L-Proline, 1-(trimethylsilyl)-, tr 109581 007364-47-8 86
+                 imethylsilyl ester
+                 4(1H)-Pyrimidinone, 2,3-dihydro-5-  19363 000636-26-0  9
+                 methyl-2-thioxo-
+                 Benzene, 1-chloro-2-methoxy-        19605 000766-51-8  9
+ 
+ 20  15.832  1.09 C:\Database\NIST11.L
+                 Glycine, N,N-bis(trimethylsilyl)-, 136596 005630-82-0 91
+                  trimethylsilyl ester
+                 Glycine, N,N-bis(trimethylsilyl)-, 136595 005630-82-0 86
+                  trimethylsilyl ester
+                 Glycine, N,N-bis(trimethylsilyl)-, 136594 005630-82-0 83
+                  trimethylsilyl ester
+ 
+ 21  16.101  0.16 C:\Database\NIST11.L
+                 Butanedioic acid, bis(trimethylsil 111787 040309-57-7 97
+                 yl) ester
+                 Butanedioic acid, bis(trimethylsil 111789 040309-57-7 96
+                 yl) ester
+                 Butanedioic acid, bis(trimethylsil 111785 040309-57-7 95
+                 yl) ester
+ 
+ 22  16.585  0.06 C:\Database\NIST11.L
+                 Propanoic acid, 2,3-bis[(trimethyl 162311 038191-87-6 53
+                 silyl)oxy]-, trimethylsilyl ester
+                 Propanoic acid, 2,3-bis[(trimethyl 162312 038191-87-6 53
+                 silyl)oxy]-, trimethylsilyl ester
+                 Propanoic acid, 2,3-bis[(trimethyl 162313 038191-87-6 53
+                 silyl)oxy]-, trimethylsilyl ester
+ 
+ 23  17.422  0.05 C:\Database\NIST11.L
+                 Serine, N,O-bis(trimethylsilyl)-,  161684 064625-17-8 90
+                 trimethylsilyl ester
+                 Pyrrolidine, 1-[5,5-dimethyl-3-(1-  76617 028017-82-5 64
+                 methylethylidene)-1-cyclohexen-1-y
+                 l]-
+                 .beta.-D-Glucopyranose, 1,2,3,4,6- 238513 002775-90-8 47
+                 pentakis-O-(trimethylsilyl)-
+ 
+ 24  18.131  0.98 C:\Database\NIST11.L
+                 Benzoic acid, 2-[4-(diethylamino)- 155536 005809-23-4 52
+                 2-hydroxybenzoyl]-
+                 6-tert-Butyl-2,4-bis(trimethylsily 155203 1000373-08-2 47
+                 l)-1,2,4-triazine-3,5-dione
+                 Isobenzothiophene-1-carboxylic aci 142383 168279-56-9 38
+                 d, 4,5,6,7-tetrahydro-6,6-dimethyl
+                 -3-methylthio-4-oxo-, ethyl ester
+ 
+ 25  19.247  0.08 C:\Database\NIST11.L
+                 .beta.-Alanine, N,N-bis(trimethyls 148421 055255-77-1 99
+                 ilyl)-, trimethylsilyl ester
+                 .beta.-Alanine, N,N-bis(trimethyls 148422 055255-77-1 97
+                 ilyl)-, trimethylsilyl ester
+                 Glycine, N,N-bis(trimethylsilyl)-, 136596 005630-82-0 35
+                  trimethylsilyl ester
+ 
+ 26  20.129  0.06 C:\Database\NIST11.L
+                 Silane, dimethyl(2,6-dimethoxyphen 130652 1000347-12-5 53
+                 oxy)butoxy-
+                 3,4,5,8-Tetramethyl-1-phenyl-4,5,6 130899 064899-20-3 30
+                 ,8-tetrahydropyrazolo[3,4-b][1,4]d
+                 iazepin-7(1H)-one
+                 Bicyclo[3.3.0]octan-2-one, [7-(1-t 131253 1000153-85-8 30
+                 rimethylsilyl-1-phenyl)methylene]
+ 
+ 27  20.883  0.07 C:\Database\NIST11.L
+                 Butanedioic acid, [(trimethylsilyl 183584 038166-11-9 97
+                 )oxy]-, bis(trimethylsilyl) ester
+                 Butanedioic acid, [(trimethylsilyl 183586 038166-11-9 91
+                 )oxy]-, bis(trimethylsilyl) ester
+                 Butanedioic acid, [(trimethylsilyl 183587 038166-11-9 91
+                 )oxy]-, bis(trimethylsilyl) ester
+ 
+ 28  21.296  0.40 C:\Database\NIST11.L
+                 Butane, 1,2,3,4-tetrakis[(trimethy 215449 018547-29-0 94
+                 lsilyl)oxy]-
+                 Butane, 1,2,3,4-tetrakis[(trimethy 215450 018547-29-0 81
+                 lsilyl)oxy]-
+                 3,8-Dioxa-2,9-disiladecane, 2,2,9, 215453 025258-02-0 76
+                 9-tetramethyl-5,6-bis[(trimethylsi
+                 lyl)oxy]-, (R*,S*)-
+ 
+ 29  21.512  0.01 C:\Database\W9N11.L
+                 Monotrimethylsilyl derivative of N 164384 000000-00-0 53
+                 icotinamide $$ Niacinamide TMS
+                 2-(4-Chloropyrazol-3-yl)pyridine   127768 998127-76-8 43
+                 Silane, trimethyl(2-methylbutoxy)-  86735 018246-67-8 27
+                  $$ 2-Methylbutyl trimethylsilyl e
+                 ther
+ 
+ 30  21.693  0.08 C:\Database\NIST11.L
+                 L-Aspartic acid, N-(trimethylsilyl 183071 055268-53-6 91
+                 )-, bis(trimethylsilyl) ester
+                 L-Aspartic acid, N-(trimethylsilyl 183073 055268-53-6 86
+                 )-, bis(trimethylsilyl) ester
+                 N,O,O'-tris-(trimethylsilyl)aspart 183070 015985-05-4 64
+                 ic acid
+ 
+ 31  21.896  2.92 C:\Database\NIST11.L
+                 L-Proline, 5-oxo-1-(trimethylsilyl 121516 030274-77-2 95
+                 )-, trimethylsilyl ester
+                 N,O-Bis-(trimethylsilyl)-2-pyrroli 121515 213608-51-6 94
+                 done carboxylic acid
+                 L-Proline, 5-oxo-1-(trimethylsilyl 121517 030274-77-2 91
+                 )-, trimethylsilyl ester
+ 
+ 32  22.149  0.11 C:\Database\NIST11.L
+                 L-Threonic acid, tris(trimethylsil 220059 1000352-53-3 70
+                 yl) ether, trimethylsilyl ester
+                 2,3,4-Trihydroxybutyric acid tetra 220062 038191-88-7 70
+                 kis(trimethylsilyl) deriv., (, (R*
+                 ,R*)-)
+                 Tris(trimethylsiloxy)ethylene      137240 069097-20-7 64
+ 
+ 33  22.613  0.13 C:\Database\NIST11.L
+                 Cytein, N,N-bis(trimethylsilyl)-,  174226 1000153-02-1 90
+                 trimethylsilyl ester
+                 Acetic acid N'-(3,4-dichloro-pheny  76137 1000294-80-9 47
+                 l)-hydrazide
+                 Acetic acid N'-(2,4-dichloro-pheny  76136 1000294-80-5 47
+                 l)-hydrazide
+ 
+ 34  22.841  1.35 C:\Database\NIST11.L
+                 2-Propenoic acid, 3-phenyl-, trime  77152 055012-82-3 99
+                 thylsilyl ester, (E)-
+                 2-Propenoic acid, 3-phenyl-, trime  77150 002078-20-8 98
+                 thylsilyl ester
+                 2-Propenoic acid, 3-phenyl-, tert- 112389 345647-22-5 87
+                 butyldimethylsilyl ester
+ 
+ 35  23.684  0.04 C:\Database\NIST11.L
+                 Silanamine, 1,1,1-trimethyl-N-(1-m 126650 057346-67-5 53
+                 ethyl-2-phenylethyl)-N-(trimethyls
+                 ilyl)-, (.+/-.)-
+                 Naphthalene, 2,3-dimethoxy-         51598 010103-06-7 43
+                 Ethyl 2-[bis(2-ethoxyethyl)amino]a  99591 1000378-72-1 43
+                 cetate
+ 
+ 36  23.925  0.01 C:\Database\W9N11.L
+                 L-Asparagine, N2-trimethylsilyl-,  396694 998396-69-4 42
+                 trimethylsilyl ester
+                 1 S-CIS-CALAMENENE                 188042 000483-77-2 38
+                 1S,CIS-CALAMENENE                  188041 000483-77-2 35
+ 
+ 37  24.110  0.22 C:\Database\NIST11.L
+                 Glutamic acid, N-(trimethylsilyl)- 192334 015985-07-6 96
+                 , bis(trimethylsilyl) ester, L-
+                 Glutamic acid, N-(trimethylsilyl)- 192335 015985-07-6 94
+                 , bis(trimethylsilyl) ester, L-
+                 Buta-1,3-diyne, 1,4-bis(2-methoxyc  98945 1000268-72-3 92
+                 arbonylcyclopropyl)-
+ 
+ 38  24.345  0.01 C:\Database\W9N11.L
+                 2,6-DIETHOXYCARBONYL-3,8-DIMETHYL- 442797 052770-70-4 38
+                 3,8-EPIOXYTRICYCLO(3.2.1.0**2,4)OC
+                 T-6-ENE
+                 D-ERYTHROSE 3TMS $$ D-ERYTHRO-TETR 555159 073745-84-3 38
+                 OFURANOSE, TRIS-O-(TRIMETHYLSILYL)
+                 1-allyl-6-[bis(trimethylsilyl)amin 440477 094042-28-1 27
+                 o]-1,3,5-cycloheptatriene
+ 
+ 39  25.329  0.04 C:\Database\NIST11.L
+                 D-(-)-Lyxose, tetrakis(trimethylsi 230428 1000380-18-6 92
+                 lyl) ether, methyloxime (syn)
+                 d-Ribose, 2,3,4,5-tetrakis-O-(trim 230425 056196-08-8 91
+                 ethylsilyl)-, O-methyloxime
+                 D-(-)-Tagatose, pentakis(trimethyl 240047 1000380-17-8 91
+                 silyl) ether, methyloxime (anti)
+ 
+ 40  26.143  0.05 C:\Database\NIST11.L
+                 Xylitol, 1,2,3,4,5-pentakis-O-(tri 236450 014199-72-5 90
+                 methylsilyl)-
+                 Xylitol, 1,2,3,4,5-pentakis-O-(tri 236451 014199-72-5 76
+                 methylsilyl)-
+                 Xylitol, 1,2,3,4,5-pentakis-O-(tri 236449 014199-72-5 64
+                 methylsilyl)-
+ 
+ 41  26.677  0.07 C:\Database\NIST11.L
+                 1,4-Butanediamine, N,N,N',N'-tetra 200165 039772-63-9 87
+                 kis(trimethylsilyl)-
+                 .delta. Amino levulinic acid tri-T 181669 1000141-47-1 64
+                 MS
+                 N,N-bis [2-Trimethylsiloxyethyl] e 124792 250688-29-0 50
+                 thanamine
+ 
+ 42  27.125  0.06 C:\Database\NIST11.L
+                 DL-Ornithine,N',N'-bis(trimethylsi 182226 1000333-14-1 94
+                 lyl)-, trimethylsilyl ester
+                 Pentanoic acid, 5-[bis(trimethylsi 171311 055191-54-3 53
+                 lyl)amino]-, trimethylsilyl ester
+                 Glycine, N,N-bis(trimethylsilyl)-, 136595 005630-82-0 49
+                  trimethylsilyl ester
+ 
+ 43  27.318  0.52 C:\Database\NIST11.L
+                 Phosphoric acid, bis(trimethylsily 229089 031038-11-6 95
+                 l) 2,3-bis[(trimethylsilyl)oxy]pro
+                 pyl ester
+                 Phosphoric acid, bis(trimethylsily 229088 031038-11-6 91
+                 l) 2,3-bis[(trimethylsilyl)oxy]pro
+                 pyl ester
+                 Phosphoric acid, bis(trimethylsily 229091 031038-11-6 90
+                 l) 2,3-bis[(trimethylsilyl)oxy]pro
+                 pyl ester
+ 
+ 44  27.476  0.04 C:\Database\W9N11.L
+                 3-Cyano-6-chloro-5-methylaminoquin 227642 998227-64-2 64
+                 oline
+                 Per-trimethylsilyldehydro derivati 733966 998733-96-6 59
+                 ve of glucose
+                 1-(4'-Chlorophenyl)-1-phenylethano 272015 998272-01-5 59
+ 
+ 45  27.744  0.07 C:\Database\NIST11.L
+                 Phosphoric acid, 2-[bis(trimethyls 221841 055334-92-4 55
+                 ilyl)amino]ethyl bis(trimethylsily
+                 l) ester
+                 Phosphoric acid, 2-[bis(trimethyls 221842 055334-92-4 46
+                 ilyl)amino]ethyl bis(trimethylsily
+                 l) ester
+                 Silanol, trimethyl-, phosphate (3: 156830 010497-05-9 25
+                 1)
+ 
+ 46  28.164  0.05 C:\Database\W9N11.L
+                 2-Cyano-8-methoxy-6-phenyl-4H-imid 510378 998510-37-8 78
+                 azo[4,5-1-ij]quinoline-4-thione
+                 Azelaic acid, bis(trimethylsilyl)  546184 017906-08-0 38
+                 ester (CAS) $$ BISTRIMETHYLSILYL A
+                 ZELAIC ACID
+                 Azelaic acid, bis(trimethylsilyl)  546182 017906-08-0 38
+                 ester $$ Bis(trimethylsilyl) azela
+                 ate
+ 
+ 47  28.511  0.59 C:\Database\NIST11.L
+                 1,2,3-Propanetricarboxylic acid, 2 232485 014330-97-3 91
+                 -[(trimethylsilyl)oxy]-, tris(trim
+                 ethylsilyl) ester
+                 1,2,3-Propanetricarboxylic acid, 2 232481 014330-97-3 64
+                 -[(trimethylsilyl)oxy]-, tris(trim
+                 ethylsilyl) ester
+                 1,2,3-Propanetricarboxylic acid, 2 232484 014330-97-3 64
+                 -[(trimethylsilyl)oxy]-, tris(trim
+                 ethylsilyl) ester
+ 
+ 48  28.960  0.50 C:\Database\NIST11.L
+                 d-Erythrotetrofuranose, tris-O-(tr 173518 1000149-35-1 53
+                 imethylsilyl)-
+                 .beta.-DL-Lyxopyranose, 1,2,3,4-te 224052 056271-66-0 38
+                 trakis-O-(trimethylsilyl)-
+                 D-Ribopyranose, 1,2,3,4-tetrakis-O 224038 056271-70-6 38
+                 -(trimethylsilyl)-
+ 
+ 49  29.117  0.14 C:\Database\NIST11.L
+                 D-Arabinonic acid, 2,3,5-tris-O-(t 192790 032384-55-7 50
+                 rimethylsilyl)-, .gamma.-lactone
+                 .beta.-D-(+)-Xylopyranose, tetraki 224044 1000380-13-1 47
+                 s(trimethylsilyl) ether
+                 1,5-Anhydro-D-sorbitol, tetrakis(t 227362 1000380-13-8 45
+                 rimethylsilyl) ether
+ 
+ 50  29.378  3.55 C:\Database\NIST11.L
+                 D-Fructose, 1,3,4,5,6-pentakis-O-( 240045 056196-14-6 94
+                 trimethylsilyl)-, O-methyloxime
+                 D-Fructose, 1,3,4,5,6-pentakis-O-( 240046 056196-14-6 93
+                 trimethylsilyl)-, O-methyloxime
+                 D-(-)-Fructose, pentakis(trimethyl 240048 1000380-18-9 91
+                 silyl) ether, methyloxime (anti)
+ 
+ 51  29.608  2.36 C:\Database\NIST11.L
+                 D-(-)-Fructose, pentakis(trimethyl 240043 1000380-19-0 91
+                 silyl) ether, methyloxime (syn)
+                 D-(-)-Fructose, pentakis(trimethyl 242095 1000380-35-6 91
+                 silyl) ether, benzyloxime (isomer 
+                 2)
+                 d-Ribose, 2,3,4,5-tetrakis-O-(trim 230423 056196-08-8 91
+                 ethylsilyl)-, O-methyloxime
+ 
+ 52  29.891  4.46 C:\Database\NIST11.L
+                 D-(+)-Talose, pentakis(trimethylsi 240038 1000380-18-7 91
+                 lyl) ether, methyloxime (syn)
+                 d-Mannose, 2,3,4,5,6-pentakis-O-(t 240054 128705-67-9 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 Z)-
+                 d-Glucose, 2,3,4,5,6-pentakis-O-(t 240056 130405-10-6 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 E)-
+ 
+ 53  30.261  0.76 C:\Database\NIST11.L
+                 d-Glucose, 2,3,4,5,6-pentakis-O-(t 240051 130405-10-6 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 E)-
+                 d-Glucose, 2,3,4,5,6-pentakis-O-(t 240055 128705-73-7 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 Z)-
+                 D-Allose, pentakis(trimethylsilyl) 240036 1000380-19-8 91
+                  ether, methyloxime (anti)
+ 
+ 54  30.368  0.07 C:\Database\NIST11.L
+                 d-Galactose, 2,3,4,5,6-pentakis-O- 240057 128705-64-6 87
+                 (trimethylsilyl)-, o-methyloxyme, 
+                 (1E)-
+                 Trimethylsilyl ether of glucitol   241425 014199-80-5 87
+                 D-Mannitol, 1,2,3,4,5,6-hexakis-O- 241433 014317-07-8 87
+                 (trimethylsilyl)-
+ 
+ 55  30.538  0.95 C:\Database\NIST11.L
+                 Trimethylsilyl ether of glucitol   241424 014199-80-5 91
+                 Trimethylsilyl ether of glucitol   241425 014199-80-5 91
+                 D-Mannitol, 1,2,3,4,5,6-hexakis-O- 241433 014317-07-8 90
+                 (trimethylsilyl)-
+ 
+ 56  31.111  0.06 C:\Database\NIST11.L
+                 D-Gluconic acid, 2,3,4,5,6-pentaki 241740 034290-52-3 55
+                 s-O-(trimethylsilyl)-, trimethylsi
+                 lyl ester
+                 D-Gluconic acid, 2,3,4,5,6-pentaki 241738 034290-52-3 52
+                 s-O-(trimethylsilyl)-, trimethylsi
+                 lyl ester
+                 Propanoic acid, 2,3-bis[(trimethyl 162311 038191-87-6 50
+                 silyl)oxy]-, trimethylsilyl ester
+ 
+ 57  31.412  0.04 C:\Database\NIST11.L
+                 n-Pentadecanoic acid, trimethylsil 156467 074367-22-9 50
+                 yl ester
+                 Pentadecanoic acid, dimethyl(isopr 178570 1000279-44-7 38
+                 opyl)silyl ester
+                 .alpha.-D-Ribofuranoside, methyl 2 202137 056227-32-8 25
+                 ,3,5-tris-O-(trimethylsilyl)-
+ 
+ 58  31.916  0.04 C:\Database\NIST11.L
+                 Arabinopyranose, tetrakis-O-(trime 224046 020585-61-9 62
+                 thylsilyl)-, .alpha.-D-
+                 .beta.-L-Arabinopyranose, 1,2,3,4- 224055 032166-73-7 58
+                 tetrakis-O-(trimethylsilo)-
+                 D-Ribose, 2,3,4,5-tetrakis-O-(trim 224030 033648-69-0 58
+                 ethylsilyl)-
+ 
+ 59  32.453  0.16 C:\Database\NIST11.L
+                 Inositol, 1,2,3,4,5,6-hexakis-O-(t 241370 014251-18-4 91
+                 rimethylsilyl)-, scyllo-
+                 Myo-Inositol, 1,2,3,4,5,6-hexakis- 241360 002582-79-8 64
+                 O-(trimethylsilyl)-
+                 Inositol, 1,2,3,4,5,6-hexakis-O-(t 241367 029412-26-8 58
+                 rimethylsilyl)-, muco-
+ 
+ 60  32.938  0.04 C:\Database\NIST11.L
+                 cis-9-Hexadecenoic acid, trimethyl 165964 1000333-19-8 94
+                 silyl ester
+                 Palmitelaidic acid, trimethylsilyl 165963 082326-15-6 90
+                  ester
+                 2H,8H-Benzo[1,2-b:5,4-b']dipyran-2 166067 055334-39-9 27
+                 -one, 5-methoxy-8,8-dimethyl-10-(3
+                 -methyl-2-butenyl)-
+ 
+ 61  33.355  1.89 C:\Database\NIST11.L
+                 Hexadecanoic acid, trimethylsilyl  167697 055520-89-3 99
+                 ester
+                 Hexadecanoic acid, trimethylsilyl  167694 055520-89-3 99
+                 ester
+                 Hexadecanoic acid, trimethylsilyl  167695 055520-89-3 99
+                 ester
+ 
+ 62  33.623  8.42 C:\Database\NIST11.L
+                 Myo-Inositol, 1,2,3,4,5,6-hexakis- 241361 002582-79-8 90
+                 O-(trimethylsilyl)-
+                 Myo-Inositol, 1,2,3,4,5,6-hexakis- 241362 002582-79-8 87
+                 O-(trimethylsilyl)-
+                 Myo-Inositol, 1,2,3,4,5,6-hexakis- 241358 002582-79-8 83
+                 O-(trimethylsilyl)-
+ 
+ 63  36.144  0.10 C:\Database\W9N11.L
+                 D-Ribofuranose, 2,3,5-tris-O-(trim 797651 069688-46-6 38
+                 ethylsilyl)-, bis(trimethylsilyl) 
+                 phosphate
+                 D-Ribofuranose, 2,3,5-tris-O-(trim 797652 069688-46-6 35
+                 ethylsilyl)-, bis(trimethylsilyl) 
+                 phosphate (C
+                 myo-Inositol, pentakis-O-(trimethy 814298 055518-06-4 22
+                 lsilyl)-, bis(trimethylsilyl) phos
+                 phate (CAS)
+ 
+ 64  36.400  0.00 C:\Database\NIST11.L
+                 9,12-Octadecadienoic acid (Z,Z)-,  185394 056259-07-5 94
+                 trimethylsilyl ester
+                 9,12-Octadecadienoic acid (Z,Z)-,  185395 056259-07-5 91
+                 trimethylsilyl ester
+                 9,12-Octadecadienoic acid (Z,Z)-,  185392 056259-07-5 87
+                 trimethylsilyl ester
+ 
+ 65  36.507  0.70 C:\Database\NIST11.L
+                 11-trans-Octadecenoic acid, trimet 186759 1000333-56-0 99
+                 hylsilyl ester
+                 Oleic acid, trimethylsilyl ester   186748 021556-26-3 99
+                 trans-9-Octadecenoic acid, trimeth 186756 096851-47-7 99
+                 ylsilyl ester
+ 
+ 66  36.628  0.12 C:\Database\NIST11.L
+                 11-cis-Octadecenoic acid, trimethy 186754 1000333-60-2 98
+                 lsilyl ester
+                 trans-13-Octadecenoic acid, trimet 186758 1000333-61-7 95
+                 hylsilyl ester
+                 cis-13-Octadecenoic acid, trimethy 186751 1000333-58-8 95
+                 lsilyl ester
+ 
+ 67  36.992  1.24 C:\Database\NIST11.L
+                 Octadecanoic acid, trimethylsilyl  188156 018748-91-9 99
+                 ester
+                 Octadecanoic acid, trimethylsilyl  188151 018748-91-9 99
+                 ester
+                 Octadecanoic acid, trimethylsilyl  188153 018748-91-9 99
+                 ester
+ 
+ 68  37.532  0.04 C:\Database\NIST11.L
+                 Gluconic acid, 2,3,4,5-tetrakis-O- 243429 028176-77-4 74
+                 (trimethylsilyl)-, trimethylsilyl 
+                 ester, bis(trimethylsilyl) phospha
+                 te, D-
+                 d-Glucose, 2,3,4,5-tetrakis-O-(tri 243042 055530-73-9 68
+                 methylsilyl)-, o-methyloxime, 6-[b
+                 is(trimethylsilyl) phosphate]
+                 Mannitol, 1,2,3,4,5-pentakis-O-(tr 243351 033800-37-2 68
+                 imethylsilyl)-, bis(trimethylsilyl
+                 ) phosphate, D-
+ 
+ 69  37.753  0.06 C:\Database\NIST11.L
+                 D-Altro-2-Heptulose, 1,3,4,5,6-pen 243573 055470-94-5 83
+                 takis-O-(trimethylsilyl)-, O-methy
+                 loxime, 7-[bis(trimethylsilyl) pho
+                 sphate]
+                 Mannitol, 1,2,3,4,5-pentakis-O-(tr 243351 033800-37-2 72
+                 imethylsilyl)-, bis(trimethylsilyl
+                 ) phosphate, D-
+                 D-Galactofuranose, 1,2,3,5-tetraki 242785 069688-48-8 59
+                 s-O-(trimethylsilyl)-, bis(trimeth
+                 ylsilyl) phosphate
+ 
+ 70  39.112  0.02 C:\Database\NIST11.L
+                 cis-5,8,11,14,17-Eicosapentaenoic  199515 1000333-53-2 89
+                 acid, trimethylsilyl ester
+                 Methyl 7,10,13,16-docosatetraenoat 181546 1000336-41-1 74
+                 10,12-Tricosadiynoic acid, trimeth 218758 1000333-59-6 64
+                 ylsilyl ester
+ 
+ 71  39.261  0.12 C:\Database\NIST11.L
+                 D-Myo-Inositol, 1,2,4,5,6-pentakis 243327 055568-91-7 64
+                 -O-(trimethylsilyl)-, bis(trimethy
+                 lsilyl) phosphate
+                 Myo-Inositol, 1,3,4,5,6-pentakis-O 243325 033910-06-4 62
+                 -(trimethylsilyl)-, bis(trimethyls
+                 ilyl) phosphate
+                 Inositol, 1,2,4,5,6-pentakis-O-(tr 243329 033800-38-3 49
+                 imethylsilyl)-, bis(trimethylsilyl
+                 ) phosphate, L-myo-
+ 
+ 72  39.595  0.34 C:\Database\NIST11.L
+                 Hexanedioic acid, bis(2-ethylhexyl 196965 000103-23-1 91
+                 ) ester
+                 Diisooctyl adipate                 196853 001330-86-5 64
+                 Hexanedioic acid, bis(2-ethylhexyl 196972 000103-23-1 60
+                 ) ester
+ 
+ 73  39.911  0.04 C:\Database\NIST11.L
+                 cis-11-Eicosenoic acid, trimethyls 203554 1000333-64-3 59
+                 ilyl ester
+                 11-Eicosenoic acid, trimethylsilyl 203552 1000079-04-0 51
+                  ester
+                 cis-13-Eicosenoic acid, trimethyls 203553 1000333-52-6 50
+                 ilyl ester
+ 
+ 74  42.721  0.07 C:\Database\NIST11.L
+                 .alpha.-D-Glucopyranoside, 1,3,4,6 243766 019159-25-2 91
+                 -tetrakis-O-(trimethylsilyl)-.beta
+                 .-D-fructofuranosyl 2,3,4,6-tetrak
+                 is-O-(trimethylsilyl)-
+                 Sucrose, octakis(trimethylsilyl) e 243738 1000380-09-1 81
+                 ther
+                 Aucubin, hexakis(trimethylsilyl) e 243417 1000380-08-5 64
+                 ther
+ 
+ 75  43.393  0.62 C:\Database\NIST11.L
+                 3-.alpha.-Mannobiose, octakis(trim 243793 1000380-11-2 91
+                 ethylsilyl) ether, methyloxime (is
+                 omer 1)
+                 3-.alpha.-Mannobiose, octakis(trim 243790 1000380-11-3 91
+                 ethylsilyl) ether, methyloxime (is
+                 omer 2)
+                 D-(+)-Cellobiose, octakis(trimethy 243787 1000380-10-0 90
+                 lsilyl) ether, methyloxime (isomer
+                  1)
+ 
+ 76  43.641  0.14 C:\Database\NIST11.L
+                 D-Lactose, octakis(trimethylsilyl) 243782 1000380-10-4 87
+                  ether, methyloxime (isomer 2)
+                 2-.alpha.-Mannobiose, octakis(trim 243750 1000380-08-9 87
+                 ethylsilyl) ether (isomer 1)
+                 2-.alpha.-Mannobiose, octakis(trim 243753 1000380-09-0 87
+                 ethylsilyl) ether (isomer 2)
+ 
+ 77  45.118  0.11 C:\Database\W9N11.L
+                 TMS ETHER OF 1-MONOOLEOYLGLYCEROL  769330 998769-33-0 32
+                 $$ 1-Monooleoylglycerol - Trimethy
+                 lsilyl ether
+                 1-Monooleoylglycerol trimethylsily 769322 054284-47-8 16
+                 l ether
+                 TMS ETHER OF 1-MONOOLEOYLGLYCEROL  769329 998769-32-9 14
+                 $$ 1-Monooleoylglycerol - Trimethy
+                 lsilyl ether
+ 
+ 78  45.479  0.07 C:\Database\NIST11.L
+                 2-Dodecenedioic acid, bis(tert-but 228399 1000221-70-1 53
+                 yldimethylsilyl) ester, (Z)-
+                 Silane, diethyl(2-heptyloxy)pentad 221709 1000363-72-7 52
+                 ecyloxy-
+                 Silane, diethylhexadecyloxy(2-meth 221719 1000363-78-7 52
+                 ylpent-3-yloxy)-
+ 
+ 79  51.139  4.05 C:\Database\NIST11.L
+                 Cholesterol trimethylsilyl ether   228923 001856-05-9 99
+                 Cholesterol trimethylsilyl ether   228920 001856-05-9 99
+                 Cholesterol trimethylsilyl ether   228922 001856-05-9 99
+ 
+
+EI_M_ONKO.M Thu Sep 01 12:53:32 2022   

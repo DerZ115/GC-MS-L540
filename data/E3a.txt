@@ -1,0 +1,1882 @@
+                                      Library Search Report
+
+  Data Path : C:\msdchem\1\data\220704_ONKO\
+  Data File : SC204.D                                             
+  Acq On    :  5 Jul 2022  17:08
+  Operator  : AM
+  Sample    : E3a
+  Misc      :  
+  ALS Vial  : 18   Sample Multiplier: 1
+
+  Search Libraries:   C:\Database\NIST11.L              Minimum Quality:  50
+                      C:\Database\W9N11.L               Minimum Quality:   0
+
+  Unknown Spectrum:   Apex minus start of peak
+  Integration Events: ChemStation Integrator - autoint200.e
+
+Pk#     RT  Area%          Library/ID                 Ref#     CAS#   Qual
+_____________________________________________________________________________
+  1   6.473  0.02 C:\Database\NIST11.L
+                 1-Butyl(dimethyl)silyloxypropane    41723 1000280-35-1 76
+                 [(1-Ethoxypropan-2-yl)oxy]trimethy  42967 1000378-32-2 58
+                 lsilane
+                 2,5-Dihydroxy-1,4-dioxane, bis(ter 182343 1000364-77-2 50
+                 t-butyldimethylsilyl) ether
+ 
+  2   6.641  0.01 C:\Database\W9N11.L
+                 Propanamide, N-methyl- $$ Propiona   5528 001187-58-2 53
+                 mide, N-methyl- $$ N-Methylpropion
+                 amide
+                 (Methylthio)-acetonitrile $$ Aceto   5504 035120-10-6 43
+                 nitrile, (methylthio)-
+                 N,N-Dimethylvaleramide $$ Pentanam  35503 006225-06-5 32
+                 ide, N,N-dimethyl-
+ 
+  3   6.768  0.01 C:\Database\W9N11.L
+                 Propiophenone, 2'-(trimethylsiloxy 242742 033342-87-9 30
+                 )-
+                 2,3,4,6-Tetrafluorophenyl isothioc 200049 084348-86-7 27
+                 yanate
+                 4' METHYL-2 PHENYLINDOLE $$ Indoli 201654 007496-81-3 25
+                 zine, 2-(4-methylphenyl)-
+ 
+  4   6.910  0.01 C:\Database\W9N11.L
+                 endo-9-ethoxybicyclo[3.2.2]nona-3, 126201 998126-20-1 25
+                 6-dien-2-one
+                 2-Ethyl-1,4-benzodioxin $$ 1,4-Ben  90586 027549-01-5 22
+                 zodioxin, 2-ethyl- (CAS)
+                 2-Propenal, 3-phenyl- (CAS) $$ Cin  39408 000104-55-2 22
+                 namaldehyde $$ 3-Phenylpropenal
+ 
+  5   7.178  0.20 C:\Database\W9N11.L
+                 Silylation Artifact from Dimethyls 308297 998308-29-7 95
+                 ulfoxide and BSTFA
+                 2,3-Dihydroxy-1,4-dioxan $$ 1,4-Di  25228 004845-50-5 40
+                 oxane-2,3-diol (CAS) $$ p-Dioxane-
+                 2,3-diol
+                 p-Dioxane-2,3-diol $$ 2,3-Dihydrox  25227 004845-50-5 40
+                 y-1,4-dioxane $$ Dioxanediol
+ 
+  6   7.314  0.11 C:\Database\W9N11.L
+                 bis(Trimethylsilyl)ketone          116474 998116-47-4 47
+                 Bis trimethylsilyl derivative of h 158485 998158-48-5 43
+                 ydrated formaldehyde
+                 Bis(trimethylsilyl) sulfite        253406 998253-40-6 43
+ 
+  7   7.444  0.05 C:\Database\W9N11.L
+                 L-Asparagine, N,N2-bis(tert-butyld 753289 096381-41-8 43
+                 imethylsilyl)-, tert-butyldimethyl
+                 silyl ester
+                 N-Trimethylsilylmethoxyamine $$ Me  24822 998024-82-2 42
+                 thoxy-trimethylsilylamine
+                 Bis(2-trimethylsiloxyethylthio)dis 458014 998458-01-4 37
+                 ulfide
+ 
+  8   7.824  0.02 C:\Database\W9N11.L
+                 2-Phenyl-3-phenylthiobenzo[b]thiop 513526 998513-52-6 83
+                 hene
+                 2,6-Dicyanomethylene-4-oxo-2,6-dhy 511841 998511-84-1 83
+                 drocyclopenta[2,1-b;3,4-b']dithiop
+                 hene
+                 5,12-Diaza-6,13-dithiapentacene [1 512789 998512-78-9 83
+                 ,4-dithiino[2,3-b;5,6-b']diquinoli
+                 ne]
+ 
+  9   8.006  0.06 C:\Database\NIST11.L
+                 Pyridine, 3-trimethylsiloxy-        36071 041571-88-4 56
+                 N-(1-Cyclopropylethyl)cyclohexanam  35937 1000331-90-6 45
+                 ine
+                 p-Methoxybenzoic acid, octadecyl e 213970 056954-78-0 36
+                 ster
+ 
+ 10   8.284  0.02 C:\Database\NIST11.L
+                 Thiazolo[5,4-f]quinoline, 2,9-dime  72441 003120-85-2 59
+                 thyl-
+                 Thiazolo[5,4-f]quinoline, 7,9-dime  72446 038463-46-6 42
+                 thyl-
+                 Thiazolo[4,5-f]quinoline, 7,9-dime  72445 038463-38-6 40
+                 thyl-
+ 
+ 11   8.611 23.08 C:\Database\NIST11.L
+                 Propanoic acid, 2-[(trimethylsilyl  89486 017596-96-2 91
+                 )oxy]-, trimethylsilyl ester
+                 Propanoic acid, 2-[(trimethylsilyl  89487 017596-96-2 91
+                 )oxy]-, trimethylsilyl ester
+                 Propanoic acid, 2-[(trimethylsilyl  89483 017596-96-2 91
+                 )oxy]-, trimethylsilyl ester
+ 
+ 12   8.742  0.11 C:\Database\W9N11.L
+                 C[Si](C)(C)NC(=O)O[Si](C)(C)C      194492 000000-00-0 43
+                 1,3-Dimethyl-5-pentamethyldisilylo 346325 998346-32-5 38
+                 xycyclohexane
+                 Butanedioic acid, bis(trimethylsil 356489 040309-57-7 38
+                 yl) ester (CAS) $$ DI-TMS SUCCINAT
+ 
+ 13   8.870  0.01 C:\Database\W9N11.L
+                 3-DEUTEROPHENYL-4-PHENYLPYRAZOLE   237786 024768-85-2 38
+                 Hydrazine, (2-nitrophenyl)- $$ Hyd  72588 003034-19-3 35
+                 razine, (o-nitrophenyl)-
+                 1,10-Dideuteriopyrrolo[3,2,1-kl]ph 246930 085520-55-4 27
+                 enothiazine
+ 
+ 14   9.019  0.04 C:\Database\NIST11.L
+                 Acetic acid, [(trimethylsilyl)oxy]  77799 033581-77-0 90
+                 -, trimethylsilyl ester
+                 Acetic acid, [(trimethylsilyl)oxy]  77803 033581-77-0 90
+                 -, trimethylsilyl ester
+                 2-Ethyl-3-hydroxypropionic acid, d 111889 1000072-00-1 72
+                 i-TMS
+ 
+ 15   9.150  0.00 C:\Database\W9N11.L
+                 4-(2,4-Dimethyl-phenyl)-1,7-dimeth 494782 998494-78-2 38
+                 yl-4-aza-tricyclo[5.2.1.0(2,6)]dec
+                 ane-3,5,8-tr
+                 N-Acetyl-N-[3,4-di(trimethylsiloxy 493797 998493-79-7 37
+                 )phenyl]amine
+                 4-Bromo-2-{[(4-chlorophenyl)imino] 488226 016434-76-7 32
+                 methyl}phenol
+ 
+ 16   9.236  0.00 C:\Database\NIST11.L
+                 2-Undecene, 4,5-dimethyl-, [R*,S*-  47301 055170-93-9 52
+                 (Z)]-
+                 3-Dodecene, (E)-                    36749 007206-14-6 43
+                 4-Decene, 3-methyl-, (E)-           27059 062338-47-0 38
+ 
+ 17   9.367  0.01 C:\Database\W9N11.L
+                 2-hydroxyethoxy-6,7-dimethyltricyc 330098 119069-02-2 49
+                 lo[5.3.1(1,7).0(6,10)]undecan-11-o
+                 ne
+                 1,9-Bis(trimethylsiloxy)nonane $$  475539 006385-16-6 30
+                 1,9-Bis(trimethylsilyloxy)nonane
+                 2-t-Butylperoxy-2-ethylbutan-1-ol, 352236 139727-33-6 25
+                  butyrate ester
+ 
+ 18   9.483  0.01 C:\Database\W9N11.L
+                 NAPHTHO(1,8-BC)THIETE 1-OXIDE $$ N 117508 054108-50-8 50
+                 aphtho[1,8-bc]thiete, 1-oxide (CAS
+                 DEOXYPEGANINE - Deuterated cpd.    118158 998118-15-8 43
+                 3-Heptanone, 5-methyl- (CAS) $$ 5-  34281 000541-85-5 38
+                 Methyl-3-heptanone $$ 3-Methyl-5-h
+                 eptanone
+ 
+ 19   9.799  1.12 C:\Database\NIST11.L
+                 l-Alanine, N-(trimethylsilyl)-, tr  88476 027844-07-1 90
+                 imethylsilyl ester
+                 l-Alanine, N-(trimethylsilyl)-, tr  88478 027844-07-1 80
+                 imethylsilyl ester
+                 Phenylpropanolamine, bis(trimethyl 140126 1000137-21-7 64
+                 silyl)
+ 
+ 20   9.950  0.00 C:\Database\NIST11.L
+                 2,6-Dimethyldecane                  38322 013150-81-7 72
+                 Nonadecane                         117637 000629-92-5 64
+                 Tridecane, 1-iodo-                 152416 035599-77-0 52
+ 
+ 21  10.076  0.00 C:\Database\NIST11.L
+                 Butanoic acid, 2-(methoxyimino)-3-  75153 055493-95-3 52
+                 methyl-, trimethylsilyl ester
+                 Butanoic acid, 2-(methoxyimino)-3-  75154 055493-95-3 38
+                 methyl-, trimethylsilyl ester
+                 3-Methyl-2-ketobutyric acid mo-tms  75146 1000332-23-2 33
+                  pk2
+ 
+ 22  10.279  3.72 C:\Database\W9N11.L
+                 1-tert-Butyl-3-(tert-butylamino)-2 389460 085225-99-6 83
+                 ,2,4,4-tetramethyl-1,3-diaza-2,4-d
+                 isilacyclobu
+                 1,4-Di-tert-butyl-3,3,5,5-tetramet 389459 085225-98-5 83
+                 hyl-1,2,4-triaza-3,5-disilacyclope
+                 ntane
+                 Silane, [1-cyclohexene-1,2-diylbis 345956 006838-67-1 64
+                 (oxy)]bis[trimethyl- (CAS)
+ 
+ 23  10.423  0.01 C:\Database\NIST11.L
+                 Glycine, N-(trimethylsilyl)-, trim  76701 007364-42-3 72
+                 ethylsilyl ester
+                 1-Trimethylsiloxy-2-trimethylsilyl  65403 017165-52-5 64
+                 aminoethane
+                 Glycine, N-(trimethylsilyl)-, trim  76702 007364-42-3 56
+                 ethylsilyl ester
+ 
+ 24  10.533  0.02 C:\Database\NIST11.L
+                 Butanoic acid, 2-[(trimethylsilyl) 100042 055133-93-2 72
+                 oxy]-, trimethylsilyl ester
+                 Propanoic acid, 2-methyl-2-[(trime 100057 055133-92-1 59
+                 thylsilyl)oxy]-, trimethylsilyl es
+                 ter
+                 Propanoic acid, 2-methyl-2-[(trime 100055 055133-92-1 59
+                 thylsilyl)oxy]-, trimethylsilyl es
+                 ter
+ 
+ 25  10.799  0.15 C:\Database\W9N11.L
+                 (4aS,8aS)-2,2-Dimethylperhydrothio 149565 998149-56-5 43
+                 pyrano[3,2-d][1,3]dioxine
+                 Lepidine, 8-nitro- $$ Quinoline, 4 150064 002801-29-8 38
+                 -methyl-8-nitro- $$ 4-Methyl-8-nit
+                 roquinoline
+                 Acetic acid, [(4-nitrophenyl)amino 207794 000103-94-6 27
+                 ]oxo- (CAS) $$ Oxalyl-p-nitroanili
+                 ne
+ 
+ 26  11.002  3.38 C:\Database\W9N11.L
+                 N,O,O-tri(trimethylsilyl)-1-c(13)- 279335 000000-00-0 91
+                 N-carboxy-glycine
+                 Ethanedioic acid, bis(trimethylsil 275595 018294-04-7 43
+                 yl) ester (CAS) $$ OXALIC ACID-DIT
+                 MS
+                 Ethanedioic acid, bis(trimethylsil 275592 018294-04-7 43
+                 yl) ester
+ 
+ 27  11.189  0.01 C:\Database\NIST11.L
+                 Pyridine, 3-trimethylsiloxy-        36070 041571-88-4 90
+                 4-Hydroxypyridine, trimethylsilyl   36072 1000352-50-3 86
+                 ether
+                 Pyridine, 3-trimethylsiloxy-        36071 041571-88-4 86
+ 
+ 28  11.464  0.11 C:\Database\NIST11.L
+                 Pentasiloxane, dodecamethyl-       204092 000141-63-9 91
+                 Pentasiloxane, dodecamethyl-       204093 000141-63-9 90
+                 Pentasiloxane, dodecamethyl-       204090 000141-63-9 70
+ 
+ 29  11.553  0.03 C:\Database\NIST11.L
+                 Butanoic acid, 4-[(trimethylsilyl) 100047 055133-95-4 58
+                 oxy]-, trimethylsilyl ester
+                 Butanoic acid, 4-[(trimethylsilyl) 100051 055133-95-4 53
+                 oxy]-, trimethylsilyl ester
+                 Bis(tert-butyldimethylsilyl) carbo 135758 1000366-56-7 47
+                 nate
+ 
+ 30  11.657  0.00 C:\Database\NIST11.L
+                 5-Chloro-thiophene-2-carbonyl chlo  45827 1000296-93-2 53
+                 ride
+                 2-Methyl-1,2-bis(trimethylsilyloxy 100181 1000079-07-8 50
+                 )butane
+                 2-Chloro-4-fluoroaniline            21379 002106-02-7 49
+ 
+ 31  11.790  0.01 C:\Database\W9N11.L
+                 (R)-3-Hydroxybutyric acid, trimeth 316311 998316-31-1 49
+                 ylsilyl ether, trimethylsilyl este
+                 1,2-Bis(trimethylsiloxy)ethane     196436 007381-30-8 43
+                 Benzo(b)thiophene-3-acetamide $$ 2 157146 001505-58-4 43
+                 -(1-Benzothien-3-yl)acetamide #
+ 
+ 32  11.926  0.05 C:\Database\W9N11.L
+                 l-2-Aminobutyric acid, N-trimethyl 314106 998314-10-6 38
+                 silyl-, trimethylsilyl ester
+                 l-2-Aminobutyric acid, N-trimethyl 314103 998314-10-3 38
+                 silyl-, trimethylsilyl ester
+                 d-2-Aminobutyric acid , N-trimethy 314107 998314-10-7 35
+                 lsilyl-, trimethylsilyl ester
+ 
+ 33  12.095  0.04 C:\Database\NIST11.L
+                 Phosphoric acid, bis(trimethylsily 107789 018291-81-1 60
+                 l)monomethyl ester
+                 6H-Dibenzo[b,d]pyran-6-one, 7-nitr  94817 022371-68-2 52
+                 o-
+                 1-Methyl-1-n-decyloxy-1-silacyclop 107412 1000216-91-2 52
+                 entane
+ 
+ 34  12.211  0.13 C:\Database\NIST11.L
+                 Pentanoic acid, 2-(methoxyimino)-3  86505 055494-02-5 64
+                 -methyl-, trimethylsilyl ester
+                 Pentanoic acid, 2-(methoxyimino)-3  86506 055494-02-5 38
+                 -methyl-, trimethylsilyl ester
+                 Butanoic acid, 2-(methoxyimino)-,   63555 055493-93-1 37
+                 trimethylsilyl ester
+ 
+ 35  12.420  0.02 C:\Database\W9N11.L
+                 1,1,1-Trimethyl-4,4-dichloro-4-vin 253466 102105-55-5 27
+                 yldisilethylene
+                 1,3-Octadiene, 2-bis(trimethylsily 375786 998375-78-6 27
+                 l)methyl-
+                 Benzeneacetic acid, 3-methoxy-.alp 374734 055590-93-7 22
+                 ha.-[(trimethylsilyl)oxy]-, methyl
+                  ester
+ 
+ 36  12.816  0.00 C:\Database\W9N11.L
+                 Benzene, 1-chloro-2-(methoxymethox 112330 027701-22-0 22
+                 y)- $$ 1-Chloro-2-(methoxymethoxy)
+                 benzene #
+                 Propane, 1-chloro-1,2,2-trifluoro- 158192 026073-32-5 14
+                 3-(methoxymethoxy)-
+                 Propane, 1-(1-ethoxyethoxy)- (CAS)  39194 020680-10-8 14
+                  $$ 1-Ethoxy-1-propoxyethane
+ 
+ 37  12.960  0.03 C:\Database\NIST11.L
+                 2-Keto-3-methylvaleric acid mo-tms  86494 1000332-24-2 53
+                  pk2
+                 Hexanoic acid, 2-(methoxyimino)-,   86497 055494-01-4 45
+                 trimethylsilyl ester
+                 Hexanoic acid, 2-(methoxyimino)-,   86498 055494-01-4 38
+                 trimethylsilyl ester
+ 
+ 38  13.228  0.21 C:\Database\NIST11.L
+                 L-Valine, N-(trimethylsilyl)-, tri 111226 007364-44-5 98
+                 methylsilyl ester
+                 N,O-Bis-(trimethylsilyl)valine     111225 015984-93-7 64
+                 1,2-Propanediol, 3-(1-naphthalenyl  75698 036112-95-5 59
+                 oxy)-
+ 
+ 39  13.395  0.08 C:\Database\NIST11.L
+                 2-Ketoisocaproic acid mo-tms        86489 1000332-23-4 76
+                 2-Keto-3-methylvaleric acid mo-tms  86494 1000332-24-2 45
+                  pk2
+                 Hexanoic acid, 2-(methoxyimino)-,   86498 055494-01-4 38
+                 trimethylsilyl ester
+ 
+ 40  13.632  0.01 C:\Database\W9N11.L
+                 Propanoic acid, 3-[(trimethylsilyl 275852 055162-32-8 49
+                 )oxy]-, trimethylsilyl ester (CAS)
+                 Butanedioic acid, bis(trimethylsil 356477 040309-57-7 49
+                 yl) ester $$ Succinic acid (2TMS)
+                 2-METHYL-4-HYDROXYBUTYRATE 2TMS    356744 998356-74-4 49
+ 
+ 41  13.813  0.00 C:\Database\NIST11.L
+                 Silane, diethyloctyloxy(2-phenylph 204719 1000363-28-1 50
+                 enoxy)-
+                 Methyl 3-(3-oxo-1,2,3,5,6,11b-hexa 154521 096737-39-2 47
+                 hydro-11h-pyrrolo[2,1-a]-.beta.-ca
+                 rbolin-11b-yl) propionate
+                 Naphthalene, 2,6-bis(1,1-dimethyle  94364 003905-64-4 43
+                 thyl)-
+ 
+ 42  14.223  0.00 C:\Database\W9N11.L
+                 Trimethyl-[2-[2-[2-(2-trimethylsil 559557 998559-55-7 47
+                 yloxyethoxy)ethoxy]ethoxy]ethoxy]s
+                 ilane
+                 Methyl 2,2-dimethyl-3,6,9,12,15,18 646684 998646-68-4 43
+                 -hexaoxa-2-silaicosan-20-oate
+                 3,6,9-Trioxa-2,10-disilaundecane,  322076 016654-74-3 38
+                 2,2,10,10-tetramethyl-
+ 
+ 43  14.327  0.01 C:\Database\W9N11.L
+                 2-[(1-Carboxy-2-oxo-3-cyclohexenyl 419789 998419-78-9 83
+                 )propylidene]-1,3-dithiolane
+                 10-Hydroxy-11-methoxy-dracaenone   421582 998421-58-2 64
+                 3-Benzyl-1,2,3,4-tetrahydroquinazo 420455 998420-45-5 50
+                 line-2,4-dithione
+ 
+ 44  14.522  0.03 C:\Database\NIST11.L
+                 Serine, bis(trimethylsilyl)-       101650 070125-39-2 98
+                 Bis(trimethylsilyl)sarcosine        88471 007364-43-4 35
+                 D-Erythro-Pentopyranose, 2-deoxy-1 183639 056227-34-0 30
+                 ,3,4-tris-O-(trimethylsilyl)-
+ 
+ 45  14.586  0.02 C:\Database\NIST11.L
+                 Benzoic acid trimethylsilyl ester   55856 002078-12-8 90
+                 Silanol, (1,1-dimethylethyl)dimeth  90525 075732-41-1 78
+                 yl-, benzoate
+                 Benzoic acid trimethylsilyl ester   55857 002078-12-8 70
+ 
+ 46  14.907 17.18 C:\Database\NIST11.L
+                 Silanol, trimethyl-, phosphate (3: 156829 010497-05-9 90
+                 1)
+                 Silanol, trimethyl-, phosphate (3: 156827 010497-05-9 64
+                 1)
+                 Silanol, trimethyl-, phosphate (3: 156830 010497-05-9 64
+                 1)
+ 
+ 47  15.035  1.01 C:\Database\NIST11.L
+                 Glycerol, tris(trimethylsilyl) eth 150719 006787-10-6 94
+                 er
+                 Glycerol, tris(trimethylsilyl) eth 150720 006787-10-6 91
+                 er
+                 Glycerol, tris(trimethylsilyl) eth 150722 006787-10-6 90
+                 er
+ 
+ 48  15.137  0.07 C:\Database\NIST11.L
+                 Silanol, trimethyl-, phosphate (3: 156830 010497-05-9 98
+                 1)
+                 Silanol, trimethyl-, phosphate (3: 156827 010497-05-9 97
+                 1)
+                 Silanol, trimethyl-, phosphate (3: 156828 010497-05-9 91
+                 1)
+ 
+ 49  15.297  0.09 C:\Database\W9N11.L
+                 3-Pyridinecarboxylic acid, trimeth 168084 025436-37-7 49
+                 ylsilyl ester $$ Nicotinic acid-TM
+                 3-Pyridinecarboxylic acid, trimeth 168087 025436-37-7 46
+                 ylsilyl ester (CAS)
+                 Isonicotinic acid, tert-butyldimet 286187 998286-18-7 46
+                 hylsilyl ester
+ 
+ 50  15.431  0.02 C:\Database\NIST11.L
+                 cis-(2-Phenylcyclohexyl)acetic aci  75790 065226-97-3 50
+                 Norephedrine bis-TBDMS Derivative  201951 1000379-98-8 50
+                 Norpseudoephedrine bis-TBDMS Deriv 201952 1000379-99-0 50
+                 ative
+ 
+ 51  15.556  0.43 C:\Database\NIST11.L
+                 L-Isoleucine, N-(trimethylsilyl)-, 123201 007483-92-3 83
+                  trimethylsilyl ester
+                 L-Isoleucine, N-(trimethylsilyl)-, 123205 007483-92-3 80
+                  trimethylsilyl ester
+                 L-Leucine, N-(trimethylsilyl)-, tr 123199 007364-46-7 72
+                 imethylsilyl ester
+ 
+ 52  15.692  0.41 C:\Database\NIST11.L
+                 L-Proline, 1-(trimethylsilyl)-, tr 109581 007364-47-8 94
+                 imethylsilyl ester
+                 Nonanoic Acid, 2,2,2- trifluoroeth  93544 1000376-58-9 40
+                 yl ester
+                 4(1H)-Pyrimidinone, 2,3-dihydro-5-  19363 000636-26-0 40
+                 methyl-2-thioxo-
+ 
+ 53  15.885  0.66 C:\Database\NIST11.L
+                 Glycine, N,N-bis(trimethylsilyl)-, 136596 005630-82-0 91
+                  trimethylsilyl ester
+                 Glycine, N,N-bis(trimethylsilyl)-, 136595 005630-82-0 86
+                  trimethylsilyl ester
+                 Glycine, N,N-bis(trimethylsilyl)-, 136594 005630-82-0 83
+                  trimethylsilyl ester
+ 
+ 54  16.124  0.19 C:\Database\NIST11.L
+                 Butanedioic acid, bis(trimethylsil 111785 040309-57-7 98
+                 yl) ester
+                 Butanedioic acid, bis(trimethylsil 111787 040309-57-7 97
+                 yl) ester
+                 Butanedioic acid, bis(trimethylsil 111789 040309-57-7 96
+                 yl) ester
+ 
+ 55  16.290  0.02 C:\Database\W9N11.L
+                 4-Nitro-5-phenylthioimidazole $$ 1 239084 113121-60-1 47
+                 H-Imidazole, 4-nitro-5-(phenylthio
+                 )- (CAS)
+                 LONGICAMPHOR $$ 1,4-METHANOAZULEN- 238690 998238-69-0 46
+                 9-ONE, DECAHYDRO-1,5,5,8A-TETRAMET
+                 HYL-
+                 Trisiloxane, octamethyl- $$ Octame 281339 000107-51-7 43
+                 thyltrisiloxane
+ 
+ 56  16.446  0.01 C:\Database\NIST11.L
+                 exo-Norbornanol, pentamethyldisily  95361 1000245-88-7 64
+                 l ether
+                 Propanedioic acid, bis(trimethylsi 101064 018457-04-0 64
+                 lyl) ester
+                 2,6-Octadiene, 3,7-dimethyl-1-(hyd 130793 1000196-11-9 64
+                 roxydimethylsilyl)-1-(trimethylsil
+                 yl)-
+ 
+ 57  16.590  0.06 C:\Database\NIST11.L
+                 Propanoic acid, 2,3-bis[(trimethyl 162311 038191-87-6 91
+                 silyl)oxy]-, trimethylsilyl ester
+                 Propanoic acid, 2,3-bis[(trimethyl 162313 038191-87-6 90
+                 silyl)oxy]-, trimethylsilyl ester
+                 Propanoic acid, 2,3-bis[(trimethyl 162312 038191-87-6 83
+                 silyl)oxy]-, trimethylsilyl ester
+ 
+ 58  16.984  0.03 C:\Database\NIST11.L
+                 2,4,6-Cycloheptatrien-1-one          5073 000539-80-0 59
+                 5-(4-Chlorobenzylidene)-3-(4-pyrid 179552 1000222-61-0 53
+                 ylcarbonyl)-2,4-thiazolidinedione
+                 Methyl nicotinate                   16636 000093-60-7 53
+ 
+ 59  17.063  0.03 C:\Database\NIST11.L
+                 Pyrimidine, 2,4-bis[(trimethylsily 106736 010457-14-4 93
+                 l)oxy]-
+                 1,1,3,3-Tetramethyl-1,3-disilaphen 107394 032538-51-5 68
+                 alane
+                 1-Methyl-10,18-bisnorabieta-8,11,1 107701 1000293-16-9 49
+                 3-triene
+ 
+ 60  17.226  0.04 C:\Database\NIST11.L
+                 Methylmaleic acid, bis(trimethylsi 122167 077220-12-3 78
+                 lyl) ester
+                 2-Pentenoic acid, 2-[(trimethylsil 110261 055045-17-5 64
+                 yl)oxy]-, trimethylsilyl ester
+                 Butanedioic acid, methyl-, bis(tri 123775 055557-26-1 64
+                 methylsilyl) ester
+ 
+ 61  17.411  0.17 C:\Database\NIST11.L
+                 Serine, N,O-bis(trimethylsilyl)-,  161684 064625-17-8 60
+                 trimethylsilyl ester
+                 D-Galactose, 2,3,4,5,6-pentakis-O- 238489 006736-94-3 50
+                 (trimethylsilyl)-
+                 D-Glucose, 2,3,4,5,6-pentakis-O-(t 238482 006736-97-6 50
+                 rimethylsilyl)-
+ 
+ 62  17.571  0.03 C:\Database\NIST11.L
+                 Nonanoic acid, trimethylsilyl este  85832 082326-11-2 97
+                 Nonanoic acid, trimethylsilyl este  85831 082326-11-2 68
+                 Nonanoic acid, tert-butyldimethyls 120980 104255-73-4 50
+                 ilyl ester
+ 
+ 63  17.675  0.02 C:\Database\W9N11.L
+                 Fumaric acid, decyl 3-pentyl ester 532778 998532-77-8 47
+                 1,12-Dioxa-5,8-dithiadodecane, 1,1 734355 998734-35-5 42
+                 2-bis(9-Borabicyclo[3.3.1]non-9-yl
+                 )-
+                 6-Methyl-11,12-dioxatricyclo[7.2.1 689486 998689-48-6 40
+                 .0(1,6)]dodecan-5-ol-8-carboxylic 
+                 acid, methyl
+ 
+ 64  17.991  0.05 C:\Database\W9N11.L
+                 Bicyclo[2.2.1]heptane-2-acetic aci 460114 998460-11-4 83
+                 d, .alpha.-oxo-exo-3-(2-oxo-1-phen
+                 ylethenyl)-,
+                 1,3,8-trihydroxy-2-isopropyl-6-met 537004 998537-00-4 80
+                 hoxy-9,10-anthraquinone
+                 (1R*,2R*,8S*)-1,2-cis-1,8-trans-2, 538743 998538-74-3 64
+                 8-Dimethyl-1-(2-furyl)-2-phenyl-1,
+                 2-dihydroaze
+ 
+ 65  18.104  0.23 C:\Database\NIST11.L
+                 N,O,O-Tris(trimethylsilyl)-L-threo 172931 007537-02-2 91
+                 nine
+                 N,O,O-Tris(trimethylsilyl)-L-threo 172929 007537-02-2 91
+                 nine
+                 N,O,O'-Tris-(trimethylsilyl)threon 172928 064569-35-3 74
+                 ine
+ 
+ 66  18.259  0.01 C:\Database\NIST11.L
+                 Benzenamine, 4-(6-methyl-2-benzoth  93900 000092-36-4 53
+                 iazolyl)-
+                 4-(6-Methyl-2-benzothiazolyl)benze  93897 1000341-55-6 53
+                 namine
+                 2,7-Dimethoxyphenazine              93824 005051-19-4 47
+ 
+ 67  18.333  0.00 C:\Database\W9N11.L
+                 3-Chloro-2-ethyl-4-iodo-5-(styryl) 602604 998602-60-4 59
+                 furan
+                 1,8-di-m-tolylanthracene           604930 100483-26-9 35
+                 2,2,4,4,4-D5-3-HYDROXYBUTYRATE 2TM 316316 055133-94-3 35
+ 
+ 68  18.489  0.01 C:\Database\W9N11.L
+                 L-Tyrosine, N,O-bis(trimethylsilyl 760898 055638-45-4 35
+                 )-3-[(trimethylsilyl)oxy]-, trimet
+                 hylsilyl est
+                 1,4-Dioxane, 2,5-dihydroxy-3,6-bis 748597 998748-59-7 32
+                 (hydroxymethyl)tetrakis-O-(trimeth
+                 ylsilyl)-
+                 1,4-DIOXANE, 2,5-DIHYDROXY-3,6-BIS 748598 998748-59-8 32
+                 (HYDROXYMETHYL)-TETRAKIS-O-(TRIMTH
+                 YLSILYL)-
+ 
+ 69  18.653  0.01 C:\Database\NIST11.L
+                 Pentanedioic acid, bis(trimethylsi 123770 055494-07-0 90
+                 lyl) ester
+                 Pentanedioic acid, bis(trimethylsi 123769 055494-07-0 59
+                 lyl) ester
+                 Butanedioic acid, methyl-, bis(tri 123776 055557-26-1 49
+                 methylsilyl) ester
+ 
+ 70  18.833  0.02 C:\Database\NIST11.L
+                 Pyrimidine, 5-methyl-2,4-bis[(trim 118540 007288-28-0 90
+                 ethylsilyl)oxy]-
+                 1,4-Bis[(trimethylsilyl)ethynyl]be 119226 073392-23-1 62
+                 nzene
+                 1,3-bis[(Trimethylsilyl)ethynyl]be 119227 038170-80-8 58
+                 nzene
+ 
+ 71  19.065  0.00 C:\Database\W9N11.L
+                 l-Methionine, trimethylsilyl ester 239068 998239-06-8 47
+                 Butane, 1-(methylthio)- (CAS) $$ 2  13664 000628-29-5 46
+                 -Thiahexane $$ Methyl butyl sulfid
+                 Dimethylsilanol $$ Silanol, dimeth   2907 005906-76-3 30
+                 yl-
+ 
+ 72  19.211  0.05 C:\Database\NIST11.L
+                 .beta.-Alanine, N,N-bis(trimethyls 148422 055255-77-1 92
+                 ilyl)-, trimethylsilyl ester
+                 .beta.-Alanine, N,N-bis(trimethyls 148421 055255-77-1 64
+                 ilyl)-, trimethylsilyl ester
+                 2H-Isoindole-2-butanoic acid, 1,3-  88134 003130-75-4 27
+                 dihydro-1,3-dioxo-
+ 
+ 73  19.406  0.00 C:\Database\W9N11.L
+                 3-hydroxytetradecadienedioic acid- 761412 000000-00-0 27
+                 tris-trimethylsilyl derivative
+                 Silylation artifact from Pentanoic 429034 998429-03-4 25
+                  Acid and BSA
+                 Pyrazine, 3,6-dihydro-2,5-bis-(tri 345442 998345-44-2 22
+                 methylsiloxy)-
+ 
+ 74  19.523  0.00 C:\Database\W9N11.L
+                 phenanthro[9,10-c]furan (CAS) $$ 2 232611 000235-94-9 35
+                 -Oxa-2H-cyclopenta[l]phenanthrene
+                 5-[(2'-thienyl)ethynyl]thiophene-2 229895 036687-75-9 22
+                 -carbaldehyde
+                 (E)-1-(4-Methylphenyl)-4-(phenyl)b 232761 998232-76-1 22
+                 ut-1-en-3-yne
+ 
+ 75  19.814  0.01 C:\Database\W9N11.L
+                 2-(4'-Chloro)styrylchromone $$ 2-S 415593 998415-59-3 60
+                 tyryl-4'-chlorochromone
+                 Perhydro-htx-2-one, 2-depentyl-, a 412500 080090-53-5 60
+                 cetate ester
+                 3-Isopropoxy-1,1,1,5,5,5-hexamethy 594182 072182-11-7 49
+                 l-3-(trimethylsiloxy)trisiloxane
+ 
+ 76  20.080  0.12 C:\Database\W9N11.L
+                 1,4,8-Trimethoxyanthracen-9-ol $$  421465 080893-75-0 90
+                 9-Anthracenol, 1,4,8-trimethoxy- (
+                 CAS)
+                 1-(p-Hydroxyphenyl)-2-(3',4',5'-tr 421550 998421-55-0 90
+                 imethoxyphenyl)ethyne
+                 Azacyclotridecan-2-one, 1-(3-amino 335996 064414-61-5 56
+                 propyl)- (CAS)
+ 
+ 77  20.361  0.10 C:\Database\W9N11.L
+                 (1.alpha.,4.alpha.,4a.beta.,8b.bet 403105 075854-63-6 38
+                 a.)-6-Bromo-anti-9-methoxy-1,2,3,4
+                 ,4a,8b-hexah
+                 Ethyl 2-propynyl sulfide $$ Propar  10565 007310-92-1 38
+                 gyl ethyl sulphide $$ Propargyl et
+                 hyl sulfide
+                 2,4(1H,3H)-Pyrimidinedione, dihydr 345437 074810-47-2 35
+                 o-1,3-bis(trimethylsilyl)-
+ 
+ 78  20.557  0.07 C:\Database\NIST11.L
+                 L-Leucine, N-(trimethylsilyl)-, tr 123198 007364-46-7 53
+                 imethylsilyl ester
+                 Trimethylsiloxy(trimethylsilyl)pro 123124 070125-41-6 47
+                 line
+                 l-Isoleucyl-l-isoleucine , N-ethox 179635 1000320-44-1 43
+                 ycarbonyl-, ethyl ester
+ 
+ 79  20.844  0.09 C:\Database\NIST11.L
+                 Butanedioic acid, [(trimethylsilyl 183584 038166-11-9 99
+                 )oxy]-, bis(trimethylsilyl) ester
+                 Butanedioic acid, [(trimethylsilyl 183587 038166-11-9 91
+                 )oxy]-, bis(trimethylsilyl) ester
+                 Butanedioic acid, [(trimethylsilyl 183588 038166-11-9 91
+                 )oxy]-, bis(trimethylsilyl) ester
+ 
+ 80  21.080  0.01 C:\Database\NIST11.L
+                 Butane, 1,2,3,4-tetrakis[(trimethy 215449 018547-29-0 93
+                 lsilyl)oxy]-
+                 Butane, 1,2,3,4-tetrakis[(trimethy 215450 018547-29-0 81
+                 lsilyl)oxy]-
+                 L-Threitol, tetrakis(trimethylsily 215448 1000380-14-0 76
+                 l) ether
+ 
+ 81  21.271  0.62 C:\Database\NIST11.L
+                 Butane, 1,2,3,4-tetrakis[(trimethy 215449 018547-29-0 91
+                 lsilyl)oxy]-
+                 Butane, 1,2,3,4-tetrakis[(trimethy 215450 018547-29-0 91
+                 lsilyl)oxy]-
+                 Ribitol, 1,2,3,4,5-pentakis-O-(tri 236446 032381-53-6 83
+                 methylsilyl)-
+ 
+ 82  21.395  0.03 C:\Database\W9N11.L
+                 2-Methyl-5-methylene-2-azaspiro[5. 201287 998201-28-7 78
+                 5]undecane-1,7-dione
+                 Niacinamide, N-trimethylsilyl-     164385 998164-38-5 49
+                 Monotrimethylsilyl derivative of N 164384 000000-00-0 46
+                 icotinamide $$ Niacinamide TMS
+ 
+ 83  21.526  0.03 C:\Database\W9N11.L
+                 4,4a,7,8-tetrahydronaphtho[2,3-b]t 151206 112251-84-0 52
+                 hiophene
+                 1,3,4,5,6,7-Hexahydrodicyclobuta[3 151201 089165-76-4 50
+                 ,4:5,6]benzo[1,2-c]thiophene
+                 7-ethyl-4-methoxy-1,2-naphthoquino 225842 121732-84-1 43
+                 ne
+ 
+ 84  21.660  0.23 C:\Database\NIST11.L
+                 L-Aspartic acid, N-(trimethylsilyl 183073 055268-53-6 98
+                 )-, bis(trimethylsilyl) ester
+                 N,O,O'-tris-(trimethylsilyl)aspart 183070 015985-05-4 97
+                 ic acid
+                 L-Aspartic acid, N-(trimethylsilyl 183071 055268-53-6 96
+                 )-, bis(trimethylsilyl) ester
+ 
+ 85  21.843  2.64 C:\Database\NIST11.L
+                 L-Proline, 5-oxo-1-(trimethylsilyl 121516 030274-77-2 97
+                 )-, trimethylsilyl ester
+                 N,O-Bis-(trimethylsilyl)-2-pyrroli 121515 213608-51-6 91
+                 done carboxylic acid
+                 N,O-Bis-(trimethylsilyl)-2-pyrroli 121514 213608-51-6 90
+                 done carboxylic acid
+ 
+ 86  22.007  0.14 C:\Database\W9N11.L
+                 METHYL 1-NAPHTHYL SULFIDE $$ Napht 118035 010075-72-6 59
+                 halene, 1-(methylthio)- (CAS)
+                 Brassilexin (isothiazolo[5,4-b]ind 117099 998117-09-9 50
+                 ole)
+                 (3,6-D2)Tricyclo[6.2.2.0(2,7)]dode 267014 087061-72-1 43
+                 ca-2(7),9-diene-4,5-dicarboxylic a
+                 nhydride
+ 
+ 87  22.116  0.15 C:\Database\NIST11.L
+                 2,3,4-Trihydroxybutyric acid tetra 220062 038191-88-7 90
+                 kis(trimethylsilyl) deriv., (, (R*
+                 ,R*)-)
+                 L-Threonic acid, tris(trimethylsil 220059 1000352-53-3 81
+                 yl) ether, trimethylsilyl ester
+                 2,3,4-Trihydroxybutyric acid tetra 220060 038191-88-7 62
+                 kis(trimethylsilyl) deriv., (, (R*
+                 ,R*)-)
+ 
+ 88  22.316  0.00 C:\Database\W9N11.L
+                 1,4,7,10,13,16-Hexaoxanonadecane,  512399 998512-39-9 47
+                 18-(2-propenyl)-
+                 4-Bromophenethyl alcohol, methyl e 219065 998219-06-5 43
+                 ther
+                 2-[( Cyclohexylidene)aminothio]ben 309151 998309-15-1 43
+                 zimidazole
+ 
+ 89  22.417  0.01 C:\Database\W9N11.L
+                 Methyl 5-(Trimethylsilyl)-3-[(trim 403271 998403-27-1 78
+                 ethylsilyl)ethynyl]pent-2-en-4-yno
+                 ate
+                 4,8-cis-8b,8c-cis-2,2,4,6,6,8-hexa 404364 122763-31-9 72
+                 methylperhydro-3a,4a,7a,8a-tetraaz
+                 acyclopentan
+                 3-(HYDRAZONO-PHENYL-METHYL)-1H-QUI 363653 998363-65-3 62
+                 NOXALIN-2-ONE
+ 
+ 90  22.571  0.19 C:\Database\NIST11.L
+                 L-Cysteine, N,S-bis(trimethylsilyl 174227 007364-50-3 76
+                 )-, trimethylsilyl ester
+                 Cytein, N,N-bis(trimethylsilyl)-,  174226 1000153-02-1 70
+                 trimethylsilyl ester
+                 L-Cysteine, N,S-bis(trimethylsilyl 174228 007364-50-3 64
+                 )-, trimethylsilyl ester
+ 
+ 91  22.802  1.41 C:\Database\NIST11.L
+                 2-Propenoic acid, 3-phenyl-, trime  77152 055012-82-3 99
+                 thylsilyl ester, (E)-
+                 2-Propenoic acid, 3-phenyl-, trime  77150 002078-20-8 98
+                 thylsilyl ester
+                 trans-Cinnamic acid, tert-butyldim 112388 1000352-55-0 90
+                 ethylsilyl ester
+ 
+ 92  22.988  0.01 C:\Database\NIST11.L
+                 Pentanedioic acid, 2-[(trimethylsi 192793 055530-62-6 50
+                 lyl)oxy]-, bis(trimethylsilyl) est
+                 er
+                 Pentanedioic acid, 2-[(trimethylsi 192795 055530-62-6 42
+                 lyl)oxy]-, bis(trimethylsilyl) est
+                 er
+                 D-(-)-Citramalic acid, O-trimethyl 192791 1000333-86-6 40
+                 silyl-, bis(trimethylsilyl) ester
+ 
+ 93  23.072  0.03 C:\Database\NIST11.L
+                 1-Triisopropylsilyloxyoctane       132978 177273-27-7 56
+                 3a-(3,4-Methylenedioxy)-hexahydroi  96575 109535-43-5 50
+                 ndole
+                 2-Thiophenecarboxamide, N-(1H-1,3-  96409 1000337-96-0 47
+                 benzimidazol-5-yl)-
+ 
+ 94  23.188  0.03 C:\Database\NIST11.L
+                 Pentanedioic acid, 2-(methoxyimino 160128 060022-87-9 95
+                 )-, bis(trimethylsilyl) ester
+                 Pentanedioic acid, 2-(methoxyimino 160129 060022-87-9 68
+                 )-, bis(trimethylsilyl) ester
+                 Bis(dimethyl-t-butylsilyl) succina 180926 098847-52-0 27
+                 te
+ 
+ 95  23.285  0.07 C:\Database\W9N11.L
+                 Simetryn $$ 1,3,5-Triazine-2,4-dia 217083 001014-70-6 43
+                 mine, N,N'-diethyl-6-(methylthio)-
+                 CYCLOPHOSPHAMIDE-4-D2              350500 055836-73-2 43
+                 10H-Phenothiazine, 10-methyl- $$ P 218121 001207-72-3 38
+                 henothiazine, 10-methyl-
+ 
+ 96  23.515  0.01 C:\Database\W9N11.L
+                 pyrrolo[3,2,1-d,e]acridin-6-one    234366 998234-36-6 30
+                 Tricyclo[3.1.0.0(2,4)]hex-3-ene-3-  13137 103495-51-8 18
+                 carbonitrile
+                 2-nitro-3-cyanopyridine $$ 3-Pyrid  64193 105151-36-8 18
+                 inecarbonitrile, 2-nitro- (CAS)
+ 
+ 97  23.639  0.04 C:\Database\W9N11.L
+                 4,4a,7,8-tetrahydronaphtho[2,3-b]t 151206 112251-84-0 14
+                 hiophene
+                 5,6,8a,9-tetrahydronaphtho[2,3-b]t 151207 112251-85-1 14
+                 hiophene
+                 Naphthalene, 2,7-dimethoxy- $$ 2,7 150955 003469-26-9 11
+                 -Dimethoxynaphthalene
+ 
+ 98  23.729  0.02 C:\Database\W9N11.L
+                 (3'S,4'R)-1-(3',4',5'-trihydroxy-1 464986 998464-98-6 35
+                 '-oxopentyl)-.beta.-carboline
+                 (4-r,3-t,6-t)-2-Aza-5,7-dioxa-3-(4 697176 998697-17-6 22
+                 '-methoxyphenyl)-6-(m-methylphenyl
+                 )-2-phenyl-s
+                 5,11-dihydro-6H-pyrido[2,3-6][1,4] 212348 000000-00-0 22
+                 benzodiazepin-6-one
+ 
+ 99  23.917  0.23 C:\Database\W9N11.L
+                 (+-)-(4-Hydroxyphenyl)methylphenyl 271682 998271-68-2 83
+                 phosphine Oxide
+                 7-Amino-8-cyano-5-hydrazino-3,4-di 270294 998270-29-4 83
+                 hydro-4-methyl-1,6-naphthyridin-2(
+                 1H)-one
+                 Methyl 3-(trimethylsilylethynyl)be 271906 998271-90-6 78
+                 nzoate
+ 
+100  24.071  0.81 C:\Database\NIST11.L
+                 Glutamic acid, N-(trimethylsilyl)- 192334 015985-07-6 99
+                 , bis(trimethylsilyl) ester, L-
+                 Buta-1,3-diyne, 1,4-bis(2-methoxyc  98945 1000268-72-3 90
+                 arbonylcyclopropyl)-
+                 Glutamic acid, N-(trimethylsilyl)- 192335 015985-07-6 86
+                 , bis(trimethylsilyl) ester, L-
+ 
+101  24.308  0.13 C:\Database\W9N11.L
+                 3-AMINO-4,5,6-TRIMETHYL-THIENO[2,3 440114 998440-11-4 49
+                 -B]PYRIDINE-2-CARBOXYLIC ACID TERT
+                 -BUTYLAMIDE
+                 1-allyl-6-[bis(trimethylsilyl)amin 440477 094042-28-1 43
+                 o]-1,3,5-cycloheptatriene
+                 L-Threonine, N,O-bis(trimethylsily 553399 007537-02-2 27
+                 l)-, trimethylsilyl ester (CAS)
+ 
+102  24.366  0.09 C:\Database\W9N11.L
+                 (E,Z)-2-Acetyl-5-[.beta.-(2'-furyl 230327 125972-67-0 78
+                 )vinyl]thiophene
+                 L-Phenylalanine, N-(trimethylsilyl 488682 007364-51-4 45
+                 )-, trimethylsilyl ester (CAS)
+                 L-Phenylalanine, N-(trimethylsilyl 488679 007364-51-4 40
+                 )-, trimethylsilyl ester (CAS)
+ 
+103  24.508  0.01 C:\Database\W9N11.L
+                 3-[(tert-butyldimethylsilyl)oxy]-2 445953 121174-21-8 53
+                 -methyl-2-(phenylamino)propanal
+                 1-(4'-Pyridylmethylidene)-1H-cyclo 264382 998264-38-2 27
+                 propa[b]naphthalene
+                 5,6-Dihydro-8,9-dimethoxypyrrolo[2 264034 998264-03-4 27
+                 ,1-a]isoquinoline
+ 
+104  24.665  0.02 C:\Database\W9N11.L
+                 3,3-Bis[(trimethylsilyl)ethynyl]-5 542271 998542-27-1 91
+                 -(trimethylsilyl)pent-1-en-4-yne
+                 4-methylnaphtho[2'1':4,5]thieno[2, 505807 096547-32-9 72
+                 3-c]quinolin-6(5H)-one
+                 3-.beta.-Hydroxy-18a,18b-dihomoand 543388 998543-38-8 46
+                 rodst-5-ene-17,18a-dione
+ 
+105  24.825  0.00 C:\Database\W9N11.L
+                 d-Xylose, 2,3,4,5-tetrakis-O-(trim 748067 056196-07-7 35
+                 ethylsilyl)-, O-methyloxime
+                 Propanoic acid, 2,3-bis[(trimethyl 521495 038191-87-6 35
+                 silyl)oxy]-, trimethylsilyl ester 
+                 (CAS)
+                 DL-Arabinose, tetrakis(trimethylsi 786288 998786-28-8 32
+                 lyl) ether, benzyloxime (isomer 2)
+ 
+106  25.007  0.03 C:\Database\W9N11.L
+                 Dodecanoic acid, trimethylsilyl es 387319 055520-95-1 38
+                 ter (CAS) $$ LAURIC ACID-MONOTMS
+                 Dodecanoic acid, trimethylsilyl es 387314 055520-95-1 27
+                 ter $$ Trimethylsilyl laurate
+                 2-Butene-1,4-diol, 2,3-dibromo- (C 304679 003234-02-4 20
+                 AS) $$ 2,3-Dibromobutene-1,4-diol
+ 
+107  25.122  0.00 C:\Database\W9N11.L
+                 1,2,3b,4,5,6-Hexahydro-8H-thiazolo 395011 998395-01-1 43
+                 [4,3-c][1,3]imidazo1,2-a][1,4]benz
+                 odiazepine-8
+                 6-(4-Methoxyphenyl)azulene         279050 998279-05-0 35
+                 1-Phenyl-3,4-dihydronaphthalene-2- 279042 998279-04-2 25
+                 carboxaldehyde
+ 
+108  25.299  0.05 C:\Database\NIST11.L
+                 D-(-)-Tagatose, pentakis(trimethyl 242097 1000380-36-7 91
+                 silyl) ether, benzyloxime (isomer 
+                 2)
+                 D-(-)-Tagatose, pentakis(trimethyl 240047 1000380-17-8 91
+                 silyl) ether, methyloxime (anti)
+                 D-Psicose, pentakis(trimethylsilyl 240037 1000380-17-7 91
+                 ) ether, methyloxime (anti)
+ 
+109  25.410  0.03 C:\Database\NIST11.L
+                 L-Asparagine, N,N2-bis(trimethylsi 182158 055649-62-2 94
+                 lyl)-, trimethylsilyl ester
+                 Asparagine, O,O',N-tris(trimethyls 182157 1000141-39-1 94
+                 ilyl)-
+                 L-Asparagine, N,N2-bis(trimethylsi 182159 055649-62-2 70
+                 lyl)-, trimethylsilyl ester
+ 
+110  25.811  0.00 C:\Database\NIST11.L
+                 Xylitol, 1,2,3,4,5-pentakis-O-(tri 236451 014199-72-5 90
+                 methylsilyl)-
+                 D-(+)-Arabitol, pentakis(trimethyl 236443 1000380-15-2 81
+                 silyl) ether
+                 L-(-)-Arabitol, pentakis(trimethyl 236442 000035-21-2 81
+                 silyl) ether
+ 
+111  25.942  0.00 C:\Database\W9N11.L
+                 2-(Pyren-1'-yl)-benzonitrile       474307 998474-30-7 35
+                 helptanoic acid tert-butyl-dimethy 306543 054251-63-7 22
+                 lsilyl ester
+                 helptanoic acid tert-butyl-dimethy 306542 054251-63-7 22
+                 lsilyl ester
+ 
+112  26.114  0.07 C:\Database\NIST11.L
+                 Xylitol, 1,2,3,4,5-pentakis-O-(tri 236449 014199-72-5 95
+                 methylsilyl)-
+                 Xylitol, 1,2,3,4,5-pentakis-O-(tri 236451 014199-72-5 93
+                 methylsilyl)-
+                 Xylitol, 1,2,3,4,5-pentakis-O-(tri 236450 014199-72-5 93
+                 methylsilyl)-
+ 
+113  26.218  0.02 C:\Database\NIST11.L
+                 Ribitol, 1,2,3,4,5-pentakis-O-(tri 236447 032381-53-6 90
+                 methylsilyl)-
+                 Ribitol, 1,2,3,4,5-pentakis-O-(tri 236446 032381-53-6 87
+                 methylsilyl)-
+                 Ribitol, 1,2,3,4,5-pentakis-O-(tri 236445 032381-53-6 81
+                 methylsilyl)-
+ 
+114  26.417  0.02 C:\Database\W9N11.L
+                 1,3,3a,4,5,10,11,11a-octahydro-5,1 302357 998302-35-7 46
+                 0-epoxy-4,11-ethanobenzo[5,6]cyclo
+                 octa[1,2-c]f
+                 2-diethylamino-4-thioxo-4,5,6,7-te 299566 000000-00-0 40
+                 trahydrothiazolo[1,2-a]-sym-triazi
+                 ne
+                 Silanamine, N-[bis(trimethylsilyl) 343437 007351-44-2 37
+                 ethenylidene]-1,1,1-trimethyl-
+ 
+115  26.663  0.02 C:\Database\NIST11.L
+                 N,N-bis [2-Trimethylsiloxyethyl] e 124792 250688-29-0 64
+                 thanamine
+                 4-Fluoro-2-phenylpyrimidine         40966 051421-91-1 59
+                 Tris-(2-methoxy-propyl)-amine       88196 1000186-41-2 58
+ 
+116  26.811  0.00 C:\Database\W9N11.L
+                 Bispyrrolo[1,2-a],[3,4-c]pyrrole-1 497745 998497-74-5 45
+                 ,3-dione, perhydro-4-t-butyl-2-phe
+                 nyl-
+                 1,4-Bis[(trimethylsilyl)ethynyl]be 382033 073392-23-1 45
+                 nzene
+                 1,3-bis[(Trimethylsilyl)ethynyl]be 382030 038170-80-8 45
+                 nzene
+ 
+117  27.081  0.11 C:\Database\NIST11.L
+                 DL-Ornithine,N',N'-bis(trimethylsi 182226 1000333-14-1 99
+                 lyl)-, trimethylsilyl ester
+                 N-.alpha.-Acetyl-L-Lysine, N,N-tri 213527 1000333-70-9 50
+                 methylsilyl-, trimethylsilyl ester
+                 4-(p-Methoxyphenyl)-3-buten-2-one  101223 091643-27-5 49
+                 thiosemicarbazone
+ 
+118  27.227  0.05 C:\Database\NIST11.L
+                 Phosphoric acid, bis(trimethylsily 229089 031038-11-6 95
+                 l) 2,3-bis[(trimethylsilyl)oxy]pro
+                 pyl ester
+                 Phosphoric acid, bis(trimethylsily 229091 031038-11-6 91
+                 l) 2,3-bis[(trimethylsilyl)oxy]pro
+                 pyl ester
+                 Phosphoric acid, bis(trimethylsily 229090 031038-11-6 91
+                 l) 2,3-bis[(trimethylsilyl)oxy]pro
+                 pyl ester
+ 
+119  27.449  0.02 C:\Database\NIST11.L
+                 L-Fucitol, pentakis(trimethylsilyl 237568 1000380-13-7 68
+                 ) ether
+                 D-Glucitol, 6-deoxy-1,2,3,4,5-pent 237570 053537-99-8 53
+                 akis-O-(trimethylsilyl)-
+                 D-Glucitol, 6-deoxy-1,2,3,4,5-pent 237569 053537-99-8 38
+                 akis-O-(trimethylsilyl)-
+ 
+120  27.654  0.05 C:\Database\NIST11.L
+                 Phosphoric acid, 2-[bis(trimethyls 221842 055334-92-4 70
+                 ilyl)amino]ethyl bis(trimethylsily
+                 l) ester
+                 Phosphoric acid, 2-[bis(trimethyls 221841 055334-92-4 64
+                 ilyl)amino]ethyl bis(trimethylsily
+                 l) ester
+                 Quinoline, 6-bromo-2-phenyl-, 1-ox 143495 019051-07-1 38
+                 ide
+ 
+121  27.836  0.01 C:\Database\W9N11.L
+                 1-Benzyl-2-pyrrolidinone (CAS) $$  119654 005291-77-0 22
+                 2-Pyrrolidinone, 1-(phenylmethyl)-
+                 Cyclopenta[b]pyrrol-6-ol, octahydr 228636 998228-63-6 22
+                 o-5-benzyl-
+                 Alverine $$ Benzenepropanamine, N- 413156 000150-59-4 14
+                 ethyl-N-(3-phenylpropyl)-
+ 
+122  27.993  0.00 C:\Database\NIST11.L
+                 D-Fructose, 1,3,4,5,6-pentakis-O-( 238485 019126-98-8 64
+                 trimethylsilyl)-
+                 D-(-)-Tagatofuranose, pentakis(tri 238516 1000380-12-5 59
+                 methylsilyl) ether (isomer 1)
+                 D-Psicofuranose, pentakis(trimethy 238504 1000380-12-8 59
+                 lsilyl) ether (isomer 2)
+ 
+123  28.207  0.06 C:\Database\NIST11.L
+                 D-(-)-Fructopyranose, pentakis(tri 238514 1000380-16-5 60
+                 methylsilyl) ether (isomer 2)
+                 D-Arabinose, tetrakis(trimethylsil 224028 018622-97-4 50
+                 yl)-
+                 D-Psicopyranose, pentakis(trimethy 238502 1000380-11-9 49
+                 lsilyl) ether (isomer 2)
+ 
+124  28.398  0.54 C:\Database\NIST11.L
+                 DL-Ornithine, N,N,N'-tris(trimethy 219072 1000333-13-9 99
+                 lsilyl)-, trimethylsilyl ester
+                 L-Ornithine, N2,N5,N5-tris(trimeth 219073 055556-70-2 99
+                 ylsilyl)-, trimethylsilyl ester
+                 L-Ornithine, N2,N5,N5-tris(trimeth 219074 055556-70-2 58
+                 ylsilyl)-, trimethylsilyl ester
+ 
+125  28.477  0.71 C:\Database\NIST11.L
+                 1,2,3-Propanetricarboxylic acid, 2 232485 014330-97-3 93
+                 -[(trimethylsilyl)oxy]-, tris(trim
+                 ethylsilyl) ester
+                 1,2,3-Propanetricarboxylic acid, 2 232481 014330-97-3 93
+                 -[(trimethylsilyl)oxy]-, tris(trim
+                 ethylsilyl) ester
+                 1,2,3-Propanetricarboxylic acid, 2 232484 014330-97-3 91
+                 -[(trimethylsilyl)oxy]-, tris(trim
+                 ethylsilyl) ester
+ 
+126  28.690  0.02 C:\Database\W9N11.L
+                 Quinoline, 4,8-dimethyl- (CAS) $$   82069 013362-80-6 43
+                 4,8-Dimethylquinoline
+                 5-(1H-Benzimidazol-2-ylmethylene)- 339919 998339-91-9 43
+                 2,4,6(1H,3H,5H)-pyrimidinetrione
+                 Quinoline, 4-ethyl- (CAS) $$ 4-Eth  82037 019020-26-9 38
+                 ylquinoline $$ CCRIS 7770
+ 
+127  28.779  0.00 C:\Database\W9N11.L
+                 6-Methoxy-1-methyl-2-phenyl-4(1H)- 367145 006878-08-6 46
+                 quinolinone (eduline)
+                 1,2,4-Triazoo[4,3-a](3,4)(5,6)-dib 366707 998366-70-7 43
+                 enz-7H-azepine-3[2H]-thione
+                 6-Methoxy-1-methyl-2-phenyl-4(1H)- 367146 006878-08-6 43
+                 quinolinone (eduline)
+ 
+128  28.914  0.01 C:\Database\W9N11.L
+                 1H-Indole-3-carboxaldehyde, 1-(tri 228055 074367-39-8 47
+                 methylsilyl)- (CAS)
+                 D-ERYTHROSE 3TMS $$ D-ERYTHRO-TETR 555159 073745-84-3 43
+                 OFURANOSE, TRIS-O-(TRIMETHYLSILYL)
+                 Gulonic acid, 2,3,5,6-tetrakis-O-( 747135 055528-75-1 43
+                 trimethylsilyl)-, lactone
+ 
+129  29.010  0.00 C:\Database\NIST11.L
+                 D-(+)-Xylose, tetrakis(trimethylsi 230427 1000380-18-4 59
+                 lyl) ether, methyloxime (syn)
+                 D-Arabinose, tetrakis(trimethylsil 238716 1000380-35-4 58
+                 yl) ether, benzyloxime (isomer 2)
+                 D-(-)-Fructose, pentakis(trimethyl 242094 1000380-35-5 47
+                 silyl) ether, benzyloxime (isomer 
+                 1)
+ 
+130  29.365  5.01 C:\Database\NIST11.L
+                 D-(-)-Tagatose, pentakis(trimethyl 242096 1000380-36-6 91
+                 silyl) ether, benzyloxime (isomer 
+                 1)
+                 D-(-)-Fructose, pentakis(trimethyl 242094 1000380-35-5 91
+                 silyl) ether, benzyloxime (isomer 
+                 1)
+                 D-(-)-Tagatose, pentakis(trimethyl 240047 1000380-17-8 91
+                 silyl) ether, methyloxime (anti)
+ 
+131  29.596  3.47 C:\Database\NIST11.L
+                 D-(-)-Lyxose, tetrakis(trimethylsi 237527 1000380-40-0 91
+                 lyl) ether, trimethylsilyloxime (i
+                 somer 1)
+                 D-(-)-Fructose, pentakis(trimethyl 240043 1000380-19-0 91
+                 silyl) ether, methyloxime (syn)
+                 D-(-)-Tagatose, pentakis(trimethyl 240042 1000380-17-9 91
+                 silyl) ether, methyloxime (syn)
+ 
+132  29.894 10.08 C:\Database\NIST11.L
+                 d-Glucose, 2,3,4,5,6-pentakis-O-(t 240052 128705-73-7 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 Z)-
+                 d-Mannose, 2,3,4,5,6-pentakis-O-(t 240053 128705-61-3 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 E)-
+                 d-Mannose, 2,3,4,5,6-pentakis-O-(t 240054 128705-67-9 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 Z)-
+ 
+133  30.242  1.94 C:\Database\NIST11.L
+                 Galactose oxime hexakis(trimethyls 241710 120850-88-6 93
+                 ilyl)
+                 d-Glucose, 2,3,4,5,6-pentakis-O-(t 240051 130405-10-6 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 E)-
+                 d-Glucose, 2,3,4,5,6-pentakis-O-(t 240056 130405-10-6 91
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 E)-
+ 
+134  30.362  0.14 C:\Database\NIST11.L
+                 Glucose oxime hexakis(trimethylsil 241708 120850-89-7 80
+                 yl)
+                 D-Mannitol, 1,2,3,4,5,6-hexakis-O- 241429 014317-07-8 76
+                 (trimethylsilyl)-
+                 D-(+)-Talose, pentakis(trimethylsi 242092 1000380-35-8 76
+                 lyl) ether, benzyloxime (isomer 2)
+ 
+135  30.516  1.50 C:\Database\NIST11.L
+                 Trimethylsilyl ether of glucitol   241424 014199-80-5 91
+                 Trimethylsilyl ether of glucitol   241426 014199-80-5 91
+                 D-Sorbitol, hexakis(trimethylsilyl 241428 1000380-14-5 90
+                 ) ether
+ 
+136  30.772  0.13 C:\Database\W9N11.L
+                 3-[(2"-Thienyl)ethynyl]-N-methyldi 515648 998515-64-8 83
+                 benzo[2,3-a : 5,6-a'] (1,4)-thiazi
+                 ne
+                 Glucitol - hexamethylsilyl ether $ 514730 000000-00-0 55
+                 $ 1,3,4-tris[(Trimethylsilyl)oxy]b
+                 ut-1-ene
+                 8-Amino-5-nitroisoquinoline - N-ox 194643 998194-64-3 52
+                 ide
+ 
+137  31.100  0.12 C:\Database\NIST11.L
+                 N,O,O'-Tris-(trimethylsilyl)tyrosi 210640 007415-19-2 91
+                 ne
+                 Silanamine, 1,1,1-trimethyl-N,N-bi 161718 020836-41-3 81
+                 s[2-[(trimethylsilyl)oxy]ethyl]-
+                 L-Tyrosine, N,O-bis(trimethylsilyl 210645 051220-73-6 68
+                 )-, trimethylsilyl ester
+ 
+138  31.383  0.01 C:\Database\NIST11.L
+                 n-Pentadecanoic acid, trimethylsil 156467 074367-22-9 94
+                 yl ester
+                 n-Pentadecanoic acid, trimethylsil 156470 074367-22-9 46
+                 yl ester
+                 n-Tridecanoic acid, trimethylsilyl 132865 169597-14-2 43
+                  ester
+ 
+139  31.437  0.00 C:\Database\W9N11.L
+                 D-Xylofuranose, 1,2,3,5-tetrakis-O 722501 056271-68-2 43
+                 -(trimethylsilyl)-
+                 Maltose, octakis(trimethylsilyl) e 817847 998817-84-7 43
+                 ther, methyloxime (isomer 2)
+                 3,4-Heptadien-2-one, 3,5-dicyclope 353709 063922-51-0 42
+                 ntyl-6-methyl-
+ 
+140  31.598  0.00 C:\Database\W9N11.L
+                 2-(2-Methyl-propenyl)-cyclohexanon  71862 065737-44-2 38
+                 e $$ 2-(2-Methyl-1-propenyl)cycloh
+                 exanone #
+                 Phthalic acid, ethyl 2H-octahydroq 576773 998576-77-3 27
+                 uinazoline-1-methyl ester
+                 (Octahydroquinolizin-1-yl)methyl 3 588758 998588-75-8 22
+                 -bromobenzoate
+ 
+141  31.693  0.00 C:\Database\NIST11.L
+                 Desmethoxy-oxo-bata-dihydroundulat 143754 111034-23-2 59
+                 ine
+                 1-(Dimethyldodecylsilyloxy)hexadec 230804 1000299-99-8 53
+                 ane
+                 Tridecanoic acid, triethylsilyl es 167693 1000279-44-1 53
+                 ter
+ 
+142  31.883  0.02 C:\Database\NIST11.L
+                 .beta.-D-Glucopyranose, 1,2,3,4,6- 238512 002775-90-8 93
+                 pentakis-O-(trimethylsilyl)-
+                 Talose, 2,3,4,5,6-pentakis-O-(trim 238477 056192-85-9 93
+                 ethylsilyl)-
+                 .beta.-D-Glucopyranose, 1,2,3,4,6- 238513 002775-90-8 91
+                 pentakis-O-(trimethylsilyl)-
+ 
+143  31.989  0.04 C:\Database\NIST11.L
+                 Pantothenic acid tritms            223410 1000331-78-2 59
+                 D-(-)-Lyxofuranose, tetrakis(trime 224035 1000380-20-3 49
+                 thylsilyl) ether
+                 D-(-)-Ribofuranose, tetrakis(trime 224058 1000380-11-7 47
+                 thylsilyl) ether (isomer 2)
+ 
+144  32.126  0.01 C:\Database\W9N11.L
+                 2-[2-[(tert-Butoxycarbonyl)amino]- 706575 998706-57-5 27
+                 6-methoxy-4-methylphenyl]-5-methox
+                 y-1,4-naphth
+                 D-(+)-Talofuranose, pentakis(trime 785304 998785-30-4 18
+                 thylsilyl) ether (isomer 1)
+                 11H-Indeno(1,2-b)quinoline $$ 3,2' 228844 000243-51-6 14
+                 -Methylene-2-phenylquinoline
+ 
+145  32.425  0.05 C:\Database\NIST11.L
+                 Inositol, 1,2,3,4,5,6-hexakis-O-(t 241368 014251-18-4 90
+                 rimethylsilyl)-, scyllo-
+                 Inositol, 1,2,3,4,5,6-hexakis-O-(t 241370 014251-18-4 87
+                 rimethylsilyl)-, scyllo-
+                 Inositol, 1,2,3,4,5,6-hexakis-O-(t 241369 014251-18-4 64
+                 rimethylsilyl)-, scyllo-
+ 
+146  32.593  0.00 C:\Database\W9N11.L
+                 Silane, diethyl(cis-4-methylcycloh 725483 998725-48-3 43
+                 exyloxy)hexadecyloxy-
+                 Tricosanoic acid, tert-butyldimeth 749364 998749-36-4 41
+                 ylsilyl ester
+                 Bis(pentamethylcyclopentadienyl)(b 691707 000000-00-0 37
+                 enzoxy)titanium complex
+ 
+147  32.789  0.06 C:\Database\NIST11.L
+                 cis-9-Hexadecenoic acid, trimethyl 165964 1000333-19-8 95
+                 silyl ester
+                 Palmitelaidic acid, trimethylsilyl 165963 082326-15-6 43
+                  ester
+                 Silane, trimethyl[(1-methylhexyl)o  51390 053690-75-8 35
+                 xy]-
+ 
+148  32.893  0.02 C:\Database\NIST11.L
+                 cis-9-Hexadecenoic acid, trimethyl 165964 1000333-19-8 86
+                 silyl ester
+                 Palmitelaidic acid, trimethylsilyl 165963 082326-15-6 86
+                  ester
+                 tert-Butyldimethylsilyl 4-oxo-4-(4 195492 1000373-12-7 37
+                 -phenylphenyl)butanoate
+ 
+149  33.085  0.03 C:\Database\W9N11.L
+                 CAPRYLIC ACID, TBS 1X              819500 000000-00-0 50
+                 3-Trifluoromethylbenzoic acid, 3-m 346089 998346-08-9 47
+                 ethylbut-2-enyl ester
+                 2-Trifluoromethylbenzoic acid, 2,4 621545 998621-54-5 47
+                 ,5-trichlorophenyl ester
+ 
+150  33.330  2.19 C:\Database\NIST11.L
+                 Hexadecanoic acid, trimethylsilyl  167697 055520-89-3 99
+                 ester
+                 Hexadecanoic acid, trimethylsilyl  167694 055520-89-3 99
+                 ester
+                 Hexadecanoic acid, trimethylsilyl  167695 055520-89-3 98
+                 ester
+ 
+151  33.600  3.34 C:\Database\NIST11.L
+                 Myo-Inositol, 1,2,3,4,5,6-hexakis- 241362 002582-79-8 87
+                 O-(trimethylsilyl)-
+                 Myo-Inositol, 1,2,3,4,5,6-hexakis- 241358 002582-79-8 68
+                 O-(trimethylsilyl)-
+                 Inositol, 1,2,3,4,5,6-hexakis-O-(t 241367 029412-26-8 64
+                 rimethylsilyl)-, muco-
+ 
+152  33.820  0.00 C:\Database\NIST11.L
+                 Glyceryl-glycoside TMS ether       242696 1000365-90-1 64
+                 .alpha.-L-Mannopyranose, 6-deoxy-1 227371 055057-21-1 50
+                 ,2,3,4-tetrakis-O-(trimethylsilyl)
+                 D-Mannopyranose, 1,2,3,4,6-pentaki 238494 055529-69-6 50
+                 s-O-(trimethylsilyl)-
+ 
+153  33.952  0.00 C:\Database\W9N11.L
+                 GALACTOSE MEOX1 TMS                793368 998793-36-8 35
+                 D-(+)-Talose, pentakis(trimethylsi 793370 998793-37-0 27
+                 lyl) ether, methyloxime (anti)
+                 d-Mannose, 2,3,4,5,6-pentakis-O-(t 793371 128705-61-3 27
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 E)-
+ 
+154  34.033  0.01 C:\Database\W9N11.L
+                 9,10-Dimethoxy-6,7-dihydro-2,3-cyc 534962 998534-96-2 64
+                 lohexano[a' ]benzo[a]quinolizine-4
+                 -thione
+                 12,13-DIHYDRO-12-METHYL-13,14-DIOX 535451 059050-31-6 64
+                 O-14H-NAPTHO(1',2':5,6)PYRANO(3,2-
+                 C)QUINOLINE
+                 Dimethyl 10,11-Dihydro-5-methyl-5H 534579 998534-57-9 59
+                 -pyridazino[4,5-b][1]benzazepine-1
+                 ,4-dicarboxy
+ 
+155  34.150  0.00 C:\Database\W9N11.L
+                 2-Propanone, 1,3-bis[(trimethylsil 752664 055429-50-0 47
+                 yl)oxy]-, O-[bis[(trimethylsilyl)o
+                 xy]phosphiny
+                 3-(3'-Trimethylsiloxypropyl)-1,1,2 657347 998657-34-7 38
+                 -tris(trimethylsilyl)cyclopropane
+                 Myo-Inositol, 1,2,3,4,5,6-hexakis- 801715 002582-79-8 38
+                 O-(trimethylsilyl)-
+ 
+156  34.316  0.02 C:\Database\NIST11.L
+                 Galactose oxime hexakis(trimethyls 241710 120850-88-6 81
+                 ilyl)
+                 D-Allose, pentakis(trimethylsilyl) 242089 1000380-44-0 76
+                  ether, benzyloxime (isomer 1)
+                 D-Allose, pentakis(trimethylsilyl) 241711 1000380-40-9 70
+                  ether, trimethylsilyloxime (isome
+                 r 1)
+ 
+157  34.438  0.01 C:\Database\NIST11.L
+                 D-(+)-Galactose, pentakis(trimethy 242098 1000380-34-4 91
+                 lsilyl) ether, benzyloxime (isomer
+                  2)
+                 d-Galactose, 2,3,4,5,6-pentakis-O- 240057 128705-64-6 90
+                 (trimethylsilyl)-, o-methyloxyme, 
+                 (1E)-
+                 d-Mannose, 2,3,4,5,6-pentakis-O-(t 240054 128705-67-9 87
+                 rimethylsilyl)-, o-methyloxyme, (1
+                 Z)-
+ 
+158  34.525  0.00 C:\Database\W9N11.L
+                 Methyl 2-azido-2,3,4,6-tetradeoxy- 739209 998739-20-9 80
+                 6-{2,4-dinitrophenyl-[(1R)-phenyle
+                 thyl]amino}-
+                 3.beta.-(Acetyloxy)-15.alpha.-hydr 739842 071076-40-9 80
+                 oxy-5.alpha.-cholesta-8(14),9(11)-
+                 dien-7-one
+                 dimethyl 2-(1',4',9',10'-tetrameth 739459 998739-45-9 80
+                 oxyanthracen-2-yl)methylene]butane
+                 dioate
+ 
+159  34.658  0.02 C:\Database\NIST11.L
+                 cis-10-Heptadecenoic acid, trimeth 176916 1000333-62-6 64
+                 ylsilyl ester
+                 Heptanoic acid, 6-oxo-, trimethyls  73765 1000153-56-3 35
+                 ilyl ester
+                 Cyclohexyldimethylisopropoxysilane  61014 1000282-21-5 27
+ 
+160  34.858  0.02 C:\Database\W9N11.L
+                 Glycine, N,N-bis(trimethylsilyl)-, 439492 005630-82-0 53
+                  trimethylsilyl ester (CAS) $$ GLY
+                 CINE-TRITMS
+                 C[Si](C)(C)OCCN([Si](C)(C)C)[Si](C 400164 998400-16-4 46
+                 )(C)C
+                 Silanamine, 1,1,1-trimethyl-N-(tri 400160 005630-81-9 46
+                 methylsilyl)-N-[2-[(trimethylsilyl
+                 )oxy]ethyl]-
+ 
+161  35.171  0.03 C:\Database\NIST11.L
+                 Heptadecanoic acid, trimethylsilyl 178563 055517-58-3 95
+                  ester
+                 n-Pentadecanoic acid, trimethylsil 156467 074367-22-9 43
+                 yl ester
+                 Silane, (1,1-dimethylethyl)dimethy 204751 065598-00-7 38
+                 l(octadecyloxy)-
+ 
+162  35.331  0.00 C:\Database\W9N11.L
+                 L-(+)-Threose, tris(trimethylsilyl 616679 998616-67-9 38
+                 ) ether, methyloxime (syn)
+                 SILICONE POLYMER                   819881 000000-00-0 35
+                 Mercaptosuccinic acid, tris(trimet 617946 998617-94-6 35
+                 hylsilyl) ester
+ 
+163  35.436  0.00 C:\Database\NIST11.L
+                 1-Cyclohexyldimethylsilyloxyoctade 215864 1000281-96-8 62
+                 cane
+                 2-(4-(Dimethylamino)-1-naphthyl)na 166886 085808-66-8 56
+                 phthoquinone
+                 Phosphine oxide, bis(pentamethylph 178710 122085-61-4 53
+                 enyl)-
+ 
+164  35.621  0.01 C:\Database\NIST11.L
+                 4,4-Bis(trimethylsiloxy)butenoic a 171882 1000370-29-8 64
+                 cid, trimethylsilyl ester
+                 D-(+)-Glucose, pentakis(trimethyls 241718 1000380-41-6 43
+                 ilyl) ether, trimethylsilyloxime (
+                 isomer 2)
+                 D-Mannitol, 1,2,3,4,5,6-hexakis-O- 241429 014317-07-8 38
+                 (trimethylsilyl)-
+ 
+165  35.764  0.01 C:\Database\NIST11.L
+                 Di-1H-pyrrol-1-yl-isopropenylsilan  62424 1000306-57-7 64
+                 4,5-Dihydronaphtho(2,1-d)thiazol-2  62423 034176-49-3 59
+                 -amine
+                 L-Tryptophan, N,1-bis(trimethylsil 219131 055429-28-2 59
+                 yl)-, trimethylsilyl ester
+ 
+166  35.958  0.00 C:\Database\W9N11.L
+                 PORNINSOL LINOLEATE                758004 000000-00-0 42
+                 2-Amino-5-bromoethyl-3-cyano-4-cyc 445193 998445-19-3 35
+                 lopropyl-6-ethylpyridine
+                 4-(p-tolyl)cytosine $$ 4-(4'-methy 184069 127970-31-4 25
+                 lphenyl)amino-1,2-dihydro-1,3-diaz
+                 ine-2-one
+ 
+167  36.102  0.21 C:\Database\W9N11.L
+                 D-Ribofuranose, 2,3,5-tris-O-(trim 797652 069688-46-6 27
+                 ethylsilyl)-, bis(trimethylsilyl) 
+                 phosphate (C
+                 D-Ribofuranose, 2,3,5-tris-O-(trim 797651 069688-46-6 27
+                 ethylsilyl)-, bis(trimethylsilyl) 
+                 phosphate
+                 D-Glucopyranuronic acid, 2,3,4-tri 811414 069727-23-7 22
+                 s-O-(trimethylsilyl)-, trimethylsi
+                 lyl ester, b
+ 
+168  36.474  0.74 C:\Database\NIST11.L
+                 11-trans-Octadecenoic acid, trimet 186759 1000333-56-0 99
+                 hylsilyl ester
+                 Oleic acid, trimethylsilyl ester   186748 021556-26-3 99
+                 trans-9-Octadecenoic acid, trimeth 186756 096851-47-7 99
+                 ylsilyl ester
+ 
+169  36.591  0.25 C:\Database\NIST11.L
+                 cis-13-Octadecenoic acid, trimethy 186751 1000333-58-8 99
+                 lsilyl ester
+                 Oleic acid, trimethylsilyl ester   186748 021556-26-3 99
+                 11-trans-Octadecenoic acid, trimet 186759 1000333-56-0 99
+                 hylsilyl ester
+ 
+170  36.768  0.02 C:\Database\W9N11.L
+                 3,4,5,6-Tetramethoxyaristoactam    562771 998562-77-1 64
+                 Oleic acid, trimethylsilyl ester $ 596077 021556-26-3 30
+                 $ Trimethylsilyl (9Z)-9-octadeceno
+                 ate
+                 2-Cyano-4-phenylquinazoline-3-oxid 315121 998315-12-1 27
+ 
+171  36.969  2.09 C:\Database\NIST11.L
+                 Octadecanoic acid, trimethylsilyl  188151 018748-91-9 99
+                 ester
+                 Octadecanoic acid, trimethylsilyl  188156 018748-91-9 99
+                 ester
+                 Octadecanoic acid, trimethylsilyl  188155 018748-91-9 99
+                 ester
+ 
+172  37.225  0.03 C:\Database\W9N11.L
+                 2'-Methylthiazolo[4',5' : 16, 17]- 656584 998656-58-4 72
+                 5.alpha.-androstan-3.beta.-yl acet
+                 ate
+                 [1,2]Dithiolo[1,5-b][1,2]oxathiole 631235 074810-18-7 42
+                 -7-SIV, 3,4,5-triphenyl-
+                 Benzo[c]phenanthrene, 5-methyl- $$ 302891 000652-04-0 30
+                  2-Methyl-3,4-benzphenanthrene
+ 
+173  37.448  0.03 C:\Database\W9N11.L
+                 9,10-Anthracenedione, 1,8-dihydrox 420758 000521-61-9 35
+                 y-3-methoxy-6-methyl- (CAS) $$ Par
+                 ietin
+                 Coumaran-5,6-diol-3-one, 2-[4-meth 420791 998420-79-1 30
+                 oxybenzylidene]-
+                 4'-Methoxy-5,7-dihydroxy isoflavon 420797 000491-80-5 30
+ 
+174  37.704  0.02 C:\Database\NIST11.L
+                 Mannitol, 1,2,3,4,5-pentakis-O-(tr 243349 033800-37-2 78
+                 imethylsilyl)-, bis(trimethylsilyl
+                 ) phosphate, D-
+                 D-Glucose, 2,3,4,5-tetrakis-O-(tri 242779 055520-80-4 74
+                 methylsilyl)-, 6-[bis(trimethylsil
+                 yl) phosphate]
+                 D-Glucose, 2,3,4,5-tetrakis-O-(tri 242777 055520-80-4 72
+                 methylsilyl)-, 6-[bis(trimethylsil
+                 yl) phosphate]
+ 
+175  37.913  0.00 C:\Database\W9N11.L
+                 Tetracosamethyl-cyclododecasiloxan 817212 018919-94-3 68
+                 TETRACOSAMETHYLCYCLODODECASILOXANE 817213 018919-94-3 68
+                 TETRACOSAMETHYLCYCLODODECASILOXANE 817211 018919-94-3 62
+ 
+176  38.016  0.01 C:\Database\W9N11.L
+                 cis-13-Octadecenoic acid, trimethy 596093 998596-09-3 38
+                 lsilyl ester
+                 trans-13-Octadecenoic acid, trimet 596092 998596-09-2 35
+                 hylsilyl ester
+                 1,14-Epoxy-N-phenyl-1,8,9,10-tetra 656669 998656-66-9 27
+                 hydronaphtho[1,2-a]pyrrolo[3,4-g]o
+                 ctan-13,16,1
+ 
+177  38.120  0.01 C:\Database\W9N11.L
+                 Bromopropylate                     709496 018181-80-1 38
+                 N,N-DI-ISOPROPYL-2,2-DIBROMO-1-MET 561960 072957-52-9 38
+                 HYLCYCLOPROPANECARBOXAMIDE
+                 Benzenamine, 4-bromo-3-chloro-N-(4 562085 314283-74-4 35
+                 -methylthiobenzylydene)-
+ 
+178  38.322  0.02 C:\Database\NIST11.L
+                 D-(-)-Ribofuranose, tetrakis(trime 224057 1000380-11-5 50
+                 thylsilyl) ether (isomer 1)
+                 Silane, diethylisobutoxyneopentylo  98824 1000363-93-8 50
+                 xy-
+                 .alpha.-DL-Lyxofuranoside, methyl  202138 056390-03-5 47
+                 2,3,5-tris-O-(trimethylsilyl)-
+ 
+179  38.517  0.03 C:\Database\W9N11.L
+                 Acetic acid, 8-(2-cyanoethyl)-1,1, 625124 998625-12-4 27
+                 4a,7-tetramethyl-9-oxo-1,2,3,4,4a,
+                 4b,5,8,8a,9-
+                 1,4-Benzenedithiol, S,S'-bis(tert- 626119 998626-11-9 10
+                 butyldimethylsilyl)-
+                 Isoxazole-4-carboxamide, 3-(2-chlo 624397 294876-16-7 10
+                 rophenyl)-5-methyl-N-(4-acetylamin
+                 ophenyl)-
+ 
+180  38.612  0.02 C:\Database\W9N11.L
+                 4,6-Dimethoxy-3-(4-chlorophenyl)in 496584 998496-58-4 30
+                 dole-7-nitrile
+                 2-(para-methoxyphenyl)-8-chloro-4H 496577 104971-84-8 20
+                 -imidazo[2,1-c][1,4]benzoxazine
+                 2-(4-Methoxyphenyl)-8-chloro-4H-im 496578 104971-84-8 18
+                 idazo(2,1-c)(1,4)benzoxazine
+ 
+181  38.800  0.01 C:\Database\W9N11.L
+                 Estra-1,3,5(10)-triene-3,16,17-tri 513217 001236-72-2 35
+                 ol, 2-methoxy-, (16.alpha.,17.beta
+                 .)-
+                 8-Methoxy-11-[3-methylbutyl]-11H-i 514003 155249-60-8 35
+                 ndolo[3,2-c]quinoline
+                 9H-Fluorene, 9,9-diphenyl- (CAS) $ 514482 020302-14-1 20
+                 $ 9,9-DIPHENYLFLUORENE
+ 
+182  39.069  0.05 C:\Database\NIST11.L
+                 Arachidonic acid, trimethylsilyl e 200690 113516-18-0 93
+                 ster
+                 Arachidonic acid, trimethylsilyl e 200689 113516-18-0 93
+                 ster
+                 5,8,11,14-Eicosatetraenoic acid, e 171123 001808-26-0 93
+                 thyl ester, (all-Z)-
+ 
+183  39.216  0.10 C:\Database\NIST11.L
+                 Myo-Inositol, 1,3,4,5,6-pentakis-O 243325 033910-06-4 81
+                 -(trimethylsilyl)-, bis(trimethyls
+                 ilyl) phosphate
+                 Inositol, 1,2,4,5,6-pentakis-O-(tr 243329 033800-38-3 49
+                 imethylsilyl)-, bis(trimethylsilyl
+                 ) phosphate, L-myo-
+                 D-Myo-Inositol, 1,2,4,5,6-pentakis 243327 055568-91-7 46
+                 -O-(trimethylsilyl)-, bis(trimethy
+                 lsilyl) phosphate
+ 
+184  39.347  0.08 C:\Database\NIST11.L
+                 9-Octadecenamide, (Z)-             128446 000301-02-0 94
+                 9-Octadecenamide, (Z)-             128447 000301-02-0 94
+                 9-Octadecenamide, (Z)-             128443 000301-02-0 93
+ 
+185  39.450  0.08 C:\Database\W9N11.L
+                 .delta.-Terpineol .beta.epoxide (. 109502 998109-50-2 38
+                 alpha.,alpha.-Dimethyl-3-cyclohexe
+                 ne-1-methano
+                 7-Octen-2-ol, 2-methyl-6-methylene  75792 000543-39-5 38
+                 - $$ Myrcenol
+                 Myrcenol $$ 7-Octen-2-ol, 2-methyl  75794 000543-39-5 38
+                 -6-methylene- (CAS)
+ 
+186  39.539  0.14 C:\Database\NIST11.L
+                 Hexanedioic acid, bis(2-ethylhexyl 196973 000103-23-1 87
+                 ) ester
+                 Diisooctyl adipate                 196853 001330-86-5 87
+                 Hexanedioic acid, bis(2-ethylhexyl 196965 000103-23-1 87
+                 ) ester
+ 
+187  39.885  0.08 C:\Database\NIST11.L
+                 cis-11-Eicosenoic acid, trimethyls 203554 1000333-64-3 93
+                 ilyl ester
+                 11-Eicosenoic acid, trimethylsilyl 203552 1000079-04-0 78
+                  ester
+                 cis-13-Octadecenoic acid, trimethy 186751 1000333-58-8 64
+                 lsilyl ester
+ 
+188  39.988  0.08 C:\Database\NIST11.L
+                 Oleamide, N-trimethylsilyl-        185954 1000308-88-0 50
+                 Silane, butoxytrimethyl-            22038 001825-65-6 25
+                 2-Methyl-1-dimethyl(dichloromethyl  73018 1000280-01-8 25
+                 )silyloxypropane
+ 
+189  40.118  0.05 C:\Database\W9N11.L
+                 11-Phenyl-[1]benzopyrano[4,3-c]iso 563382 091622-71-8 50
+                 quinoline-5,12(11H)-dione
+                 6-Thiocyanato-6-demethoxythebaine  560417 998560-41-7 47
+                 9-[Bis(tert-butylethynyl)methylene 561904 998561-90-4 38
+                 ]-9H-fluorene
+ 
+190  40.188  0.07 C:\Database\W9N11.L
+                 Butane-1,3-diol, 1-methylene-3-met 351502 117201-96-4 27
+                 hyl-, bis(trimethylsilyl)ether
+                 Perfluoro-1-heptene $$ 1-Heptene,  585837 000355-63-5 27
+                 1,1,2,3,3,4,4,5,5,6,6,7,7,7-tetrad
+                 ecafluoro-
+                 1-Benzyl-3,7-diphenyl-3-azabicyclo 646291 998646-29-1 25
+                 [3.1.1]heptane-2,4,6-trione
+ 
+191  40.314  0.09 C:\Database\W9N11.L
+                 1,3-Bis[2-(trimethylsiloxy)phenyl] 650847 998650-84-7 83
+                 -2-propen-1-one
+                 7,16-Dimethyl-7,16-dihydrobenzo[1, 652189 998652-18-9 78
+                 2,3-kl:6,5,4-k'l']diacridine
+                 methyl 5,6-dihydro-8-oxo-9-phenyl- 624367 998624-36-7 64
+                 8H-pyrido[1,2-d]thieno[2,3-f]thiaz
+                 epine-10-car
+ 
+192  40.709  0.03 C:\Database\NIST11.L
+                 6-Dimethylamino-4-ketohexanoic aci  97872 1000353-14-1 52
+                 d, trimethylsilyl ester
+                 2-Propanamine, N-methyl-              762 004747-21-1 50
+                 3-Decanamine, 3-methoxy-            50929 056009-24-6 50
+ 
+193  40.826  0.01 C:\Database\W9N11.L
+                 N-[2-(Dimethylamino)ethyl]-2-(4-fl 489541 998489-54-1 38
+                 uorophenyl)-4-quinolinamine
+                 N-[2-(Dimethylamino)ethyl]-2-(4-fl 489542 998489-54-2 38
+                 uorophenyl)-4-quinolinamine
+                 Diltiazem                          695347 042399-41-7 35
+ 
+194  40.960  0.01 C:\Database\NIST11.L
+                 1-O-Octadecylglycerol,- bis(trimet 233825 1000336-71-8 56
+                 hylsilyl) ether
+                 1-O-Heptadecylglycerol, bis-trimet 231691 061574-60-5 56
+                 hylsilyl ether
+                 para-Morpholinoacetophenone         65116 039910-98-0 50
+ 
+195  41.142  0.02 C:\Database\NIST11.L
+                 2-(4-Chlorophenyl)-3-methoxycarbon 195989 1000287-26-7 72
+                 ylmethylamino-N-(2-dimethylamino)-
+                 N-methylthioacrylamide
+                 Fumaric acid, 2-dimethylaminoethyl 187303 1000331-65-1 64
+                  dodecyl ester
+                 Fumaric acid, 2-dimethylaminoethyl 216134 1000331-65-4 64
+                  hexadecyl ester
+ 
+196  41.425  0.04 C:\Database\NIST11.L
+                 Oleanitrile                        113266 1000308-88-1 80
+                 9-Octadecenal, (Z)-                115866 002423-10-1 43
+                 Octadecanoic acid, 2-hydroxy-1-(hy 189428 000621-61-4 20
+                 droxymethyl)ethyl ester
+ 
+197  41.902  0.01 C:\Database\W9N11.L
+                 Ethyl 10-oxo-2-(trimethylsilylmeth 491729 998491-72-9 10
+                 yl)undeca-2(Z),8(E)-dinoate
+                 4-(n-Decyl)-3-hydroxymethyl-2,2,5, 492563 998492-56-3  9
+                 5-tetramethyl-2,5-dihydro-1H-pyrro
+                 lidin-1-ylox
+                 di-TMS-3-(2'-hydroxyphenyl)propion 491008 998491-00-8  9
+                 ic acid
+ 
+198  42.081  0.04 C:\Database\NIST11.L
+                 Diisooctyl phthalate               207653 000131-20-4 89
+                 Bis(2-ethylhexyl) phthalate        207664 000117-81-7 81
+                 Bis(2-ethylhexyl) phthalate        207665 000117-81-7 74
+ 
+199  42.295  0.01 C:\Database\W9N11.L
+                 3-Methylcatechol, bis(trimethylsil 374779 998374-77-9 25
+                 yl) ether
+                 3-METHYLCATECHOL DITMS             374780 998374-78-0 22
+                 3,5-Dimethoxyphenylacetic acid, tr 374746 998374-74-6 22
+                 imethylsilyl ester
+ 
+200  42.418  0.02 C:\Database\NIST11.L
+                 Methyl 6,9,12,15,18-heneicosapenta 169504 1000336-49-2 86
+                 enoate
+                 Ethyl 5,8,11,14,17-icosapentaenoat 169500 084494-70-2 64
+                 cis-5,8,11,14,17-Eicosapentaenoic  146580 010417-94-4 64
+                 acid
+ 
+201  42.550  0.02 C:\Database\NIST11.L
+                 1-(p-Methoxycarbonylphenyl)-3-(6-m 197628 010179-70-1 52
+                 ethyl-3-pyridyl)-5-phenyl-2-pyrazo
+                 line
+                 Silane, diethyl(3-methylbutoxy)pen 212285 1000363-00-4 50
+                 tadecyloxy-
+                 Silane, dimethylhexyloxypentadecyl 205716 1000346-91-4 50
+                 oxy-
+ 
+202  42.689  0.09 C:\Database\NIST11.L
+                 Sucrose, octakis(trimethylsilyl) e 243738 1000380-09-1 95
+                 ther
+                 .alpha.-D-Glucopyranoside, 1,3,4,6 243765 019159-25-2 95
+                 -tetrakis-O-(trimethylsilyl)-.beta
+                 .-D-fructofuranosyl 2,3,4,6-tetrak
+                 is-O-(trimethylsilyl)-
+                 .alpha.-D-Glucopyranoside, 1,3,4,6 243766 019159-25-2 78
+                 -tetrakis-O-(trimethylsilyl)-.beta
+                 .-D-fructofuranosyl 2,3,4,6-tetrak
+                 is-O-(trimethylsilyl)-
+ 
+203  42.838  0.01 C:\Database\W9N11.L
+                 1-Cyclohexene-1-carboxylic acid, 3 744237 055520-78-0 35
+                 ,4,5-tris[(trimethylsilyl)oxy]-, t
+                 rimethylsily
+                 1-Cyclohexene-1-carboxylic acid, 3 744239 055520-78-0 32
+                 ,4,5-tris[(trimethylsilyl)oxy]-, t
+                 rimethylsily
+                 Isoquinoline, 1-phenyl- $$ 1-Pheny 195895 003297-72-1 30
+                 lisoquinoline
+ 
+204  43.064  0.03 C:\Database\W9N11.L
+                 2-Pentadecanone, 6,10,14-trimethyl 377141 000502-69-2 46
+                 - $$ Hexahydrofarnesyl acetone
+                 N-[2-(dimethylamino)ethyl]-2-(3-ch 530118 998530-11-8 35
+                 lorophenyl)quinolin-4-amine
+                 Octan-1-one, 1-(1,2,3,4,4a,9b-hexa 538633 998538-63-3 30
+                 hydro-2,8-dimethyl-5-pyrido[4,3-b]
+                 indolyl)-
+ 
+205  43.367  0.07 C:\Database\NIST11.L
+                 3-.alpha.-Mannobiose, octakis(trim 243793 1000380-11-2 91
+                 ethylsilyl) ether, methyloxime (is
+                 omer 1)
+                 D-Lactose, octakis(trimethylsilyl) 243782 1000380-10-4 91
+                  ether, methyloxime (isomer 2)
+                 D-(+)-Cellobiose, octakis(trimethy 243787 1000380-10-0 90
+                 lsilyl) ether, methyloxime (isomer
+                  1)
+ 
+206  43.500  0.02 C:\Database\W9N11.L
+                 N,N-Bis(trimethylsilyl)-2-(2-fluor 757358 000000-00-0 87
+                 o-4-methoxyphenyl)-7-(trifluoromet
+                 hyl)quinolon
+                 5,10,15,20-Tetra(isopropyl)chlorin 757952 998757-95-2 53
+                 2,6-Di-tert-butyl-4-{3,3-bis-[4-(N 757992 998757-99-2 53
+                 -dimethylamino)phenyl]propadienyli
+                 dene}-2,5-cy
+ 
+207  43.612  0.02 C:\Database\NIST11.L
+                 D-Lactose, octakis(trimethylsilyl) 243782 1000380-10-4 76
+                  ether, methyloxime (isomer 2)
+                 D-(+)-Cellobiose, octakis(trimethy 243787 1000380-10-0 62
+                 lsilyl) ether, methyloxime (isomer
+                  1)
+                 2-.alpha.-Mannobiose, octakis(trim 243750 1000380-08-9 58
+                 ethylsilyl) ether (isomer 1)
+ 
+208  43.999  0.01 C:\Database\W9N11.L
+                 OCTADECAMETHYLCYCLONONASILOXANE $$ 808244 000556-71-8 27
+                  Cyclononasiloxane, octadecamethyl
+                 - (CAS)
+                 Benzoic acid, 3-chlorosulfonyl-2,6 339286 998339-28-6 11
+                 -difluoro-
+                 Methyl 2-acetyl-5-(hexylsulfanyl)b 627007 998627-00-7 11
+                 iphenyl-3-carboxylate
+ 
+209  44.128  0.01 C:\Database\NIST11.L
+                 Maltose, octakis(trimethylsilyl) e 243779 1000380-10-1 72
+                 ther, methyloxime (isomer 1)
+                 Maltose, octakis(trimethylsilyl) e 243778 1000380-10-2 64
+                 ther, methyloxime (isomer 2)
+                 2-.alpha.-Mannobiose, octakis(trim 243750 1000380-08-9 64
+                 ethylsilyl) ether (isomer 1)
+ 
+210  44.326  0.01 C:\Database\NIST11.L
+                 D-(+)-Trehalose, octakis(trimethyl 243740 1000380-43-8 68
+                 silyl) ether
+                 Palatinose, heptakis(trimethylsily 243619 1000380-11-1 59
+                 l) ether, methyloxime
+                 .alpha.-D-Glucopyranoside, 1,3,4,6 243765 019159-25-2 52
+                 -tetrakis-O-(trimethylsilyl)-.beta
+                 .-D-fructofuranosyl 2,3,4,6-tetrak
+                 is-O-(trimethylsilyl)-
+ 
+211  44.549  0.01 C:\Database\W9N11.L
+                 (5-(Methylsulfanyl)-3-(trimethylsi 638342 998638-34-2 72
+                 lyl)biphenyl-2-yl)phenylmethanone
+                 Trifluorosilyl-octamethylcyclotetr 636667 064639-35-6 72
+                 asilazane
+                 methyl 14-amino-12,15-dimethoxypod 609760 998609-76-0 38
+                 ocarpa-8,11,13-triene-13-carboxyla
+                 te
+ 
+212  44.712  0.00 C:\Database\NIST11.L
+                 D-Lactose, octakis(trimethylsilyl) 243747 1000380-08-3 64
+                  ether (isomer 2)
+                 D-(+)-Cellobiose, octakis(trimethy 243749 1000380-08-0 64
+                 lsilyl) ether (isomer 2)
+                 2-.alpha.-Mannobiose, octakis(trim 243750 1000380-08-9 59
+                 ethylsilyl) ether (isomer 1)
+ 
+213  44.808  0.00 C:\Database\W9N11.L
+                 2,3-Dimethoxy-6-methylquinoxaline  191314 069722-50-5 20
+                 Cyclopropanecarboxamide, 3-(2,2-di 666811 998666-81-1 18
+                 chlorovinyl)-2,2-dimethyl-N-[3-(pi
+                 peridine-1-c
+                 2-Methyl-6-nitro-4-quinolinol      190841 001207-82-5 18
+ 
+214  44.928  0.01 C:\Database\W9N11.L
+                 Bis(pentamethylcyclopentadienyl)(b 691707 000000-00-0 53
+                 enzoxy)titanium complex
+                 3,4-Diphenyl-6,7-dihydro-9H-thiopy 691505 998691-50-5 38
+                 rano[3",4":5',6']pyrido[2',3':4,5]
+                 thieno[2,3-c
+                 3-(4,5-dimethoxy-2-vinylphenyl)-5, 691422 111596-41-9 37
+                 7,8-trimethoxy-2-methyl-isoquinoli
+                 n-1(2H)-one
+ 
+215  45.081  0.02 C:\Database\W9N11.L
+                 Bis(pentamethylcyclopentadienyl)(b 691707 000000-00-0 59
+                 enzoxy)titanium complex
+                 o-methyl-13-benzoyldehydroalamarid 693154 120155-03-5 53
+                 ine
+                 1-Monooleoylglycerol trimethylsily 769321 054284-47-8 43
+                 l ether
+ 
+216  45.203  0.01 C:\Database\W9N11.L
+                 2,3,4,5-Tetrabromo-1-methylpyrrole 665153 056454-29-6 38
+                 1-(terty-Butyldimethylsilyloxy)-5, 758193 998758-19-3 18
+                 6-dihydro-4-dimethylamino-2-propyl
+                 naphthalene
+                 (24.xi)-24-(3-butynyl)-6-.beta.-me 736684 131932-76-8 14
+                 thoxy-3.alpha.,5-cyclocholestane
+ 
+217  45.441  0.03 C:\Database\NIST11.L
+                 3-[(Trimethylsilyl)oxy]4,5.alpha.- 211701 1000326-32-1 59
+                 epoxy-14-hydroxy-17-(2-propenyl)mo
+                 rphinan-6-one
+                 6H-Benzo[g]-1,3-benzodioxolo[5,6-a 211688 031098-60-9 50
+                 ]quinolizine-12-methanol, 5,8,13,1
+                 3a-tetrahydro-10,11,14-trimethoxy-
+                 , (S)-
+                 Silane, diethyl(2-ethylbutoxy)hexa 221710 1000363-43-5 50
+                 decyloxy-
+ 
+218  45.694  0.00 C:\Database\W9N11.L
+                 5-(3-Methoxy-1-phenyl-1,2,4-triazo 345263 998345-26-3 11
+                 l-5-ylamino)tetrazole
+                 [(1-Methyl-2-piperidinocarbonyl)vi 389433 147354-25-4 11
+                 nyloxy]-4-methyl-1,3,2-dioxaphosph
+                 olane
+                 9,19-Cyclolanost-6-ene-3,7-diol, d 753889 998753-88-9 11
+                 iacetate
+ 
+219  45.826  0.01 C:\Database\NIST11.L
+                 13-Docosenamide, (Z)-              174697 000112-84-5 64
+                 9-Octadecenamide, (Z)-             128445 000301-02-0 53
+                 13-Docosenamide, (Z)-              174696 000112-84-5 52
+ 
+220  45.959  0.02 C:\Database\W9N11.L
+                 11.beta.,20-Dihydroxy-3-oxopregn-4 579253 059005-58-2 35
+                 -en-21-al
+                 3,3-Bis[(trimethylsilyl)ethynyl]-5 542271 998542-27-1 35
+                 -(trimethylsilyl)pent-1-en-4-yne
+                 Ethylamine, 2-[1-(p-chlorophenyl)- 473785 000077-38-3 30
+                 1-phenylethoxy]-N,N-dimethyl-
+ 
+221  46.172  0.03 C:\Database\W9N11.L
+                 2-[(5,6,7,8-Tetrahydro-3,5,5,8,8-p 609451 998609-45-1 40
+                 entamethyl-2-naphthyl)thio]-[1,3]t
+                 hiazol-5-car
+                 .beta.-Bisabolene (CAS)            193232 000495-61-4 32
+                 .beta.-Bisabolene (CAS)            193229 000495-61-4 32
+ 
+222  46.343  0.02 C:\Database\W9N11.L
+                 Ethyl 1-(p-Methoxyphenyl)amino-7-m 709170 998709-17-0 72
+                 ethyl-7H-pyrido[4,3-c]carbazole-3-
+                 carboxylate
+                 methyl 2-malonamoyl-1,8,9-trimetho 708928 115706-45-1 64
+                 xyanthracene-3-acetate
+                 1,2-Dibenzoyldibenzo[e,g]pyrrolo[1 709313 068949-98-4 64
+                 ,2-a]pyridine
+ 
+223  46.529  0.01 C:\Database\W9N11.L
+                 6-Chloro-2-phenyl-1H-imidazo[2,1-c 415110 998415-11-0 38
+                 ][1,4]benzoxazine #
+                 Silane, dimethyl(4-methoxyphenoxy) 415058 998415-05-8 35
+                 hexyloxy-
+                 (9-Amino-5H-naphtho[1,2-d][1.2.3]d 413904 998413-90-4 35
+                 ithiazol-5-ylidene)propanedinitril
+ 
+224  46.751  0.00 C:\Database\W9N11.L
+                 4H-Pyrane-3-carboxamide, 5-cyano-6 423760 330593-30-1 18
+                 -ethoxy-2-methyl-4-(4-pyridyl)-
+                 Ethyl 2-acetamido-3,3,3-trifluoro- 521554 328270-12-8 18
+                 2-(4-fluoroanilino)propionate
+                 2-(1'-METHYLINDOL-3'-YL)ETHENE-1,1 201395 065037-75-4 18
+                 -DECARBONITRILE
+ 
+225  46.854  0.00 C:\Database\W9N11.L
+                 Benzeneacetic acid, 3-methoxy-4-[( 374727 015964-84-8 18
+                 trimethylsilyl)oxy]-, methyl ester
+                  (CAS)
+                 1,4,9-Trimethoxyanthracene         376476 998376-47-6 18
+                 Estra-1,3,5(10)-trien-17-one, 3,6- 627029 007323-90-2 18
+                 bis(acetyloxy)-, (6.beta.)-
+ 
+226  48.385  0.08 C:\Database\NIST11.L
+                 1-Ethyl-1-(3-pentadecyloxy)-1-sila 177089 1000282-47-7 53
+                 cyclopentane
+                 1-Ethyl-1-tetradecyloxy-1-silacycl 177074 1000279-38-4 50
+                 ohexane
+                 Phenol, 3-(4-bromo-3-chlorophenyli 151706 303214-98-4 42
+                 minomethyl)-
+ 
+227  51.121  3.61 C:\Database\NIST11.L
+                 Cholesterol trimethylsilyl ether   228920 001856-05-9 99
+                 Cholesterol trimethylsilyl ether   228922 001856-05-9 99
+                 Cholesterol trimethylsilyl ether   228923 001856-05-9 96
+ 
+228  52.678  0.06 C:\Database\W9N11.L
+                 Indene-1,3(2H)-dione, 2-(2-methoxy 572606 349497-72-9 45
+                 phenylamino)-2-phenyl-
+                 4-HyYDROXY-WILSONIRINE             572103 998572-10-3 43
+                 3-hydroxycarbonyl-4-(1',3'-dioxabi 571845 998571-84-5 43
+                 cyclo[4.3.0]nona-5',7',9'(4')-trie
+                 n-5'-yl)-5-e
+ 
+
+EI_M_ONKO.M Tue Sep 06 10:37:14 2022   
